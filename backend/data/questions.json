@@ -1,0 +1,8752 @@
+[
+  {
+    "question": "12 × 3 + 5 = ?",
+    "answer": 41,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "100 - 27 + 8 = ?",
+    "answer": 81,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "24 ÷ 2 × 2 = ?",
+    "answer": 24,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "25 + 36 - 18 = ?",
+    "answer": 43,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "9 × 4 - 10 = ?",
+    "answer": 26,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "13 × 4 + 6 = ?",
+    "answer": 58,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "101 - 29 + 9 = ?",
+    "answer": 81,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "39 ÷ 3 × 3 = ?",
+    "answer": 39,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "26 + 38 - 19 = ?",
+    "answer": 45,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "10 × 5 - 11 = ?",
+    "answer": 39,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "14 × 5 + 7 = ?",
+    "answer": 77,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "102 - 31 + 10 = ?",
+    "answer": 81,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "56 ÷ 4 × 4 = ?",
+    "answer": 56,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "27 + 40 - 20 = ?",
+    "answer": 47,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "11 × 6 - 12 = ?",
+    "answer": 54,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "15 × 6 + 8 = ?",
+    "answer": 98,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "103 - 33 + 11 = ?",
+    "answer": 81,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "75 ÷ 5 × 5 = ?",
+    "answer": 75,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "28 + 42 - 21 = ?",
+    "answer": 49,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "12 × 7 - 13 = ?",
+    "answer": 71,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "16 × 7 + 9 = ?",
+    "answer": 121,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "104 - 35 + 12 = ?",
+    "answer": 81,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "96 ÷ 6 × 2 = ?",
+    "answer": 32,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "29 + 44 - 22 = ?",
+    "answer": 51,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "13 × 8 - 14 = ?",
+    "answer": 90,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "17 × 8 + 10 = ?",
+    "answer": 146,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "105 - 37 + 13 = ?",
+    "answer": 81,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "34 ÷ 2 × 3 = ?",
+    "answer": 51,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "30 + 46 - 23 = ?",
+    "answer": 53,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "14 × 9 - 15 = ?",
+    "answer": 111,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "18 × 9 + 11 = ?",
+    "answer": 173,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "106 - 39 + 8 = ?",
+    "answer": 75,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "54 ÷ 3 × 4 = ?",
+    "answer": 72,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "31 + 48 - 24 = ?",
+    "answer": 55,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "15 × 4 - 16 = ?",
+    "answer": 44,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "19 × 3 + 12 = ?",
+    "answer": 69,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "107 - 41 + 9 = ?",
+    "answer": 75,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "76 ÷ 4 × 5 = ?",
+    "answer": 95,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "32 + 50 - 25 = ?",
+    "answer": 57,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "16 × 5 - 17 = ?",
+    "answer": 63,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "20 × 4 + 13 = ?",
+    "answer": 93,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "108 - 43 + 10 = ?",
+    "answer": 75,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "100 ÷ 5 × 2 = ?",
+    "answer": 40,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "33 + 52 - 18 = ?",
+    "answer": 67,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "17 × 6 - 18 = ?",
+    "answer": 84,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "21 × 5 + 5 = ?",
+    "answer": 110,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "109 - 45 + 11 = ?",
+    "answer": 75,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "126 ÷ 6 × 3 = ?",
+    "answer": 63,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "34 + 54 - 19 = ?",
+    "answer": 69,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "18 × 7 - 19 = ?",
+    "answer": 107,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "22 × 6 + 6 = ?",
+    "answer": 138,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "110 - 47 + 12 = ?",
+    "answer": 75,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "44 ÷ 2 × 4 = ?",
+    "answer": 88,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "35 + 56 - 20 = ?",
+    "answer": 71,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "19 × 8 - 10 = ?",
+    "answer": 142,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "23 × 7 + 7 = ?",
+    "answer": 168,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "111 - 49 + 13 = ?",
+    "answer": 75,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "69 ÷ 3 × 5 = ?",
+    "answer": 115,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "36 + 58 - 21 = ?",
+    "answer": 73,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "20 × 9 - 11 = ?",
+    "answer": 169,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "24 × 8 + 8 = ?",
+    "answer": 200,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "112 - 51 + 8 = ?",
+    "answer": 69,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "96 ÷ 4 × 2 = ?",
+    "answer": 48,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "37 + 60 - 22 = ?",
+    "answer": 75,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "21 × 4 - 12 = ?",
+    "answer": 72,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "25 × 9 + 9 = ?",
+    "answer": 234,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "113 - 53 + 9 = ?",
+    "answer": 69,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "125 ÷ 5 × 3 = ?",
+    "answer": 75,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "38 + 62 - 23 = ?",
+    "answer": 77,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "22 × 5 - 13 = ?",
+    "answer": 97,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "26 × 3 + 10 = ?",
+    "answer": 88,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "114 - 55 + 10 = ?",
+    "answer": 69,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "156 ÷ 6 × 4 = ?",
+    "answer": 104,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "39 + 64 - 24 = ?",
+    "answer": 79,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "23 × 6 - 14 = ?",
+    "answer": 124,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "27 × 4 + 11 = ?",
+    "answer": 119,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "115 - 57 + 11 = ?",
+    "answer": 69,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "54 ÷ 2 × 5 = ?",
+    "answer": 135,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "40 + 66 - 25 = ?",
+    "answer": 81,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "24 × 7 - 15 = ?",
+    "answer": 153,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "28 × 5 + 12 = ?",
+    "answer": 152,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "116 - 59 + 12 = ?",
+    "answer": 69,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "84 ÷ 3 × 2 = ?",
+    "answer": 56,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "41 + 68 - 18 = ?",
+    "answer": 91,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "25 × 8 - 16 = ?",
+    "answer": 184,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "29 × 6 + 13 = ?",
+    "answer": 187,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "117 - 61 + 13 = ?",
+    "answer": 69,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "116 ÷ 4 × 3 = ?",
+    "answer": 87,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "42 + 70 - 19 = ?",
+    "answer": 93,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "26 × 9 - 17 = ?",
+    "answer": 217,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "30 × 7 + 5 = ?",
+    "answer": 215,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "118 - 63 + 8 = ?",
+    "answer": 63,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "150 ÷ 5 × 4 = ?",
+    "answer": 120,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "43 + 72 - 20 = ?",
+    "answer": 95,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "27 × 4 - 18 = ?",
+    "answer": 90,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "31 × 8 + 6 = ?",
+    "answer": 254,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "119 - 65 + 9 = ?",
+    "answer": 63,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "186 ÷ 6 × 5 = ?",
+    "answer": 155,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "44 + 74 - 21 = ?",
+    "answer": 97,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "28 × 5 - 19 = ?",
+    "answer": 121,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "32 × 9 + 7 = ?",
+    "answer": 295,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "120 - 67 + 10 = ?",
+    "answer": 63,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "64 ÷ 2 × 2 = ?",
+    "answer": 64,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "45 + 76 - 22 = ?",
+    "answer": 99,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "29 × 6 - 10 = ?",
+    "answer": 164,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "33 × 3 + 8 = ?",
+    "answer": 107,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "121 - 69 + 11 = ?",
+    "answer": 63,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "99 ÷ 3 × 3 = ?",
+    "answer": 99,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "46 + 78 - 23 = ?",
+    "answer": 101,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "30 × 7 - 11 = ?",
+    "answer": 199,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "34 × 4 + 9 = ?",
+    "answer": 145,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "122 - 71 + 12 = ?",
+    "answer": 63,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "136 ÷ 4 × 4 = ?",
+    "answer": 136,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "47 + 80 - 24 = ?",
+    "answer": 103,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "31 × 8 - 12 = ?",
+    "answer": 236,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "35 × 5 + 10 = ?",
+    "answer": 185,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "123 - 73 + 13 = ?",
+    "answer": 63,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "175 ÷ 5 × 5 = ?",
+    "answer": 175,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "48 + 82 - 25 = ?",
+    "answer": 105,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "32 × 9 - 13 = ?",
+    "answer": 275,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "36 × 6 + 11 = ?",
+    "answer": 227,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "124 - 75 + 8 = ?",
+    "answer": 57,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "216 ÷ 6 × 2 = ?",
+    "answer": 72,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "49 + 84 - 18 = ?",
+    "answer": 115,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "33 × 4 - 14 = ?",
+    "answer": 118,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "37 × 7 + 12 = ?",
+    "answer": 271,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "125 - 77 + 9 = ?",
+    "answer": 57,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "74 ÷ 2 × 3 = ?",
+    "answer": 111,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "50 + 86 - 19 = ?",
+    "answer": 117,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "34 × 5 - 15 = ?",
+    "answer": 155,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "38 × 8 + 13 = ?",
+    "answer": 317,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "126 - 79 + 10 = ?",
+    "answer": 57,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "114 ÷ 3 × 4 = ?",
+    "answer": 152,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "51 + 88 - 20 = ?",
+    "answer": 119,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "35 × 6 - 16 = ?",
+    "answer": 194,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "39 × 9 + 5 = ?",
+    "answer": 356,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "127 - 81 + 11 = ?",
+    "answer": 57,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "156 ÷ 4 × 5 = ?",
+    "answer": 195,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "52 + 90 - 21 = ?",
+    "answer": 121,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "36 × 7 - 17 = ?",
+    "answer": 235,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "40 × 3 + 6 = ?",
+    "answer": 126,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "128 - 83 + 12 = ?",
+    "answer": 57,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "200 ÷ 5 × 2 = ?",
+    "answer": 80,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "53 + 92 - 22 = ?",
+    "answer": 123,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "37 × 8 - 18 = ?",
+    "answer": 278,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "41 × 4 + 7 = ?",
+    "answer": 171,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "129 - 85 + 13 = ?",
+    "answer": 57,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "246 ÷ 6 × 3 = ?",
+    "answer": 123,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "54 + 94 - 23 = ?",
+    "answer": 125,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "38 × 9 - 19 = ?",
+    "answer": 323,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "42 × 5 + 8 = ?",
+    "answer": 218,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "130 - 87 + 8 = ?",
+    "answer": 51,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "84 ÷ 2 × 4 = ?",
+    "answer": 168,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "55 + 96 - 24 = ?",
+    "answer": 127,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "39 × 4 - 10 = ?",
+    "answer": 146,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "43 × 6 + 9 = ?",
+    "answer": 267,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "131 - 89 + 9 = ?",
+    "answer": 51,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "129 ÷ 3 × 5 = ?",
+    "answer": 215,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "56 + 98 - 25 = ?",
+    "answer": 129,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "40 × 5 - 11 = ?",
+    "answer": 189,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "44 × 7 + 10 = ?",
+    "answer": 318,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "132 - 91 + 10 = ?",
+    "answer": 51,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "176 ÷ 4 × 2 = ?",
+    "answer": 88,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "57 + 100 - 18 = ?",
+    "answer": 139,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "41 × 6 - 12 = ?",
+    "answer": 234,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "45 × 8 + 11 = ?",
+    "answer": 371,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "133 - 93 + 11 = ?",
+    "answer": 51,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "225 ÷ 5 × 3 = ?",
+    "answer": 135,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "58 + 102 - 19 = ?",
+    "answer": 141,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "42 × 7 - 13 = ?",
+    "answer": 281,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "46 × 9 + 12 = ?",
+    "answer": 426,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "134 - 95 + 12 = ?",
+    "answer": 51,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "276 ÷ 6 × 4 = ?",
+    "answer": 184,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "59 + 104 - 20 = ?",
+    "answer": 143,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "43 × 8 - 14 = ?",
+    "answer": 330,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "47 × 3 + 13 = ?",
+    "answer": 154,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "135 - 97 + 13 = ?",
+    "answer": 51,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "94 ÷ 2 × 5 = ?",
+    "answer": 235,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "60 + 106 - 21 = ?",
+    "answer": 145,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "44 × 9 - 15 = ?",
+    "answer": 381,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "48 × 4 + 5 = ?",
+    "answer": 197,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "136 - 99 + 8 = ?",
+    "answer": 45,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "144 ÷ 3 × 2 = ?",
+    "answer": 96,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "61 + 108 - 22 = ?",
+    "answer": 147,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "45 × 4 - 16 = ?",
+    "answer": 164,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "49 × 5 + 6 = ?",
+    "answer": 251,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "137 - 101 + 9 = ?",
+    "answer": 45,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "196 ÷ 4 × 3 = ?",
+    "answer": 147,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "62 + 110 - 23 = ?",
+    "answer": 149,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "46 × 5 - 17 = ?",
+    "answer": 213,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "50 × 6 + 7 = ?",
+    "answer": 307,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "138 - 103 + 10 = ?",
+    "answer": 45,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "250 ÷ 5 × 4 = ?",
+    "answer": 200,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "63 + 112 - 24 = ?",
+    "answer": 151,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "47 × 6 - 18 = ?",
+    "answer": 264,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "51 × 7 + 8 = ?",
+    "answer": 365,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "139 - 105 + 11 = ?",
+    "answer": 45,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "306 ÷ 6 × 5 = ?",
+    "answer": 255,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "64 + 114 - 25 = ?",
+    "answer": 153,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "48 × 7 - 19 = ?",
+    "answer": 317,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "52 × 8 + 9 = ?",
+    "answer": 425,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "140 - 107 + 12 = ?",
+    "answer": 45,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "104 ÷ 2 × 2 = ?",
+    "answer": 104,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "65 + 116 - 18 = ?",
+    "answer": 163,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "49 × 8 - 10 = ?",
+    "answer": 382,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "53 × 9 + 10 = ?",
+    "answer": 487,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "141 - 109 + 13 = ?",
+    "answer": 45,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "159 ÷ 3 × 3 = ?",
+    "answer": 159,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "66 + 118 - 19 = ?",
+    "answer": 165,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "50 × 9 - 11 = ?",
+    "answer": 439,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "54 × 3 + 11 = ?",
+    "answer": 173,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "142 - 111 + 8 = ?",
+    "answer": 39,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "216 ÷ 4 × 4 = ?",
+    "answer": 216,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "67 + 120 - 20 = ?",
+    "answer": 167,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "51 × 4 - 12 = ?",
+    "answer": 192,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "55 × 4 + 12 = ?",
+    "answer": 232,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "143 - 113 + 9 = ?",
+    "answer": 39,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "275 ÷ 5 × 5 = ?",
+    "answer": 275,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "68 + 122 - 21 = ?",
+    "answer": 169,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "52 × 5 - 13 = ?",
+    "answer": 247,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "56 × 5 + 13 = ?",
+    "answer": 293,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "144 - 115 + 10 = ?",
+    "answer": 39,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "336 ÷ 6 × 2 = ?",
+    "answer": 112,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "69 + 124 - 22 = ?",
+    "answer": 171,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "53 × 6 - 14 = ?",
+    "answer": 304,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "57 × 6 + 5 = ?",
+    "answer": 347,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "145 - 117 + 11 = ?",
+    "answer": 39,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "114 ÷ 2 × 3 = ?",
+    "answer": 171,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "70 + 126 - 23 = ?",
+    "answer": 173,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "54 × 7 - 15 = ?",
+    "answer": 363,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "58 × 7 + 6 = ?",
+    "answer": 412,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "146 - 119 + 12 = ?",
+    "answer": 39,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "174 ÷ 3 × 4 = ?",
+    "answer": 232,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "71 + 128 - 24 = ?",
+    "answer": 175,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "55 × 8 - 16 = ?",
+    "answer": 424,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "59 × 8 + 7 = ?",
+    "answer": 479,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "147 - 121 + 13 = ?",
+    "answer": 39,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "236 ÷ 4 × 5 = ?",
+    "answer": 295,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "72 + 130 - 25 = ?",
+    "answer": 177,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "56 × 9 - 17 = ?",
+    "answer": 487,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "60 × 9 + 8 = ?",
+    "answer": 548,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "148 - 123 + 8 = ?",
+    "answer": 33,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "300 ÷ 5 × 2 = ?",
+    "answer": 120,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "73 + 132 - 18 = ?",
+    "answer": 187,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "57 × 4 - 18 = ?",
+    "answer": 210,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "61 × 3 + 9 = ?",
+    "answer": 192,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "149 - 125 + 9 = ?",
+    "answer": 33,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "366 ÷ 6 × 3 = ?",
+    "answer": 183,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "74 + 134 - 19 = ?",
+    "answer": 189,
+    "level": 1,
+    "topic": "fast mental math",
+    "difficulty": "easy"
+  },
+  {
+    "question": "58 × 5 - 19 = ?",
+    "answer": 271,
+    "level": 1,
+    "topic": "basic arithmetic",
+    "difficulty": "easy"
+  },
+  {
+    "question": "2^2 + 3 = ?",
+    "answer": 7,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√25 + 0 = ?",
+    "answer": 5,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3! ÷ 2! + 0 = ?",
+    "answer": 3,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^3 ÷ 2^1 + 0 = ?",
+    "answer": 4,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6² - 12 + 0 = ?",
+    "answer": 24,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^3 + 4 = ?",
+    "answer": 31,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√36 + 1 = ?",
+    "answer": 7,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4! ÷ 3! + 1 = ?",
+    "answer": 5,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^4 ÷ 3^2 + 1 = ?",
+    "answer": 10,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7² - 14 + 0 = ?",
+    "answer": 35,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^4 + 5 = ?",
+    "answer": 261,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√49 + 2 = ?",
+    "answer": 9,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5! ÷ 4! + 2 = ?",
+    "answer": 7,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^5 ÷ 4^1 + 2 = ?",
+    "answer": 258,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8² - 16 + 0 = ?",
+    "answer": 48,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5^2 + 6 = ?",
+    "answer": 31,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√64 + 3 = ?",
+    "answer": 11,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6! ÷ 5! + 3 = ?",
+    "answer": 9,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^6 ÷ 2^2 + 3 = ?",
+    "answer": 19,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9² - 18 + 0 = ?",
+    "answer": 63,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6^3 + 7 = ?",
+    "answer": 223,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√81 + 4 = ?",
+    "answer": 13,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7! ÷ 6! + 4 = ?",
+    "answer": 11,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^3 ÷ 3^1 + 4 = ?",
+    "answer": 13,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "10² - 20 + 0 = ?",
+    "answer": 80,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7^4 + 8 = ?",
+    "answer": 2409,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√100 + 5 = ?",
+    "answer": 15,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8! ÷ 7! + 5 = ?",
+    "answer": 13,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^4 ÷ 4^2 + 5 = ?",
+    "answer": 21,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "11² - 22 + 0 = ?",
+    "answer": 99,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8^2 + 9 = ?",
+    "answer": 73,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√121 + 6 = ?",
+    "answer": 17,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9! ÷ 8! + 6 = ?",
+    "answer": 15,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^5 ÷ 2^1 + 6 = ?",
+    "answer": 22,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "12² - 24 + 0 = ?",
+    "answer": 120,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9^3 + 10 = ?",
+    "answer": 739,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√144 + 7 = ?",
+    "answer": 19,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3! ÷ 2! + 7 = ?",
+    "answer": 10,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^6 ÷ 3^2 + 0 = ?",
+    "answer": 81,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "13² - 26 + 0 = ?",
+    "answer": 143,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^4 + 11 = ?",
+    "answer": 27,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√169 + 8 = ?",
+    "answer": 21,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4! ÷ 3! + 8 = ?",
+    "answer": 12,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^3 ÷ 4^1 + 1 = ?",
+    "answer": 17,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "14² - 28 + 0 = ?",
+    "answer": 168,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^2 + 12 = ?",
+    "answer": 21,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√196 + 9 = ?",
+    "answer": 23,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5! ÷ 4! + 9 = ?",
+    "answer": 14,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^4 ÷ 2^2 + 2 = ?",
+    "answer": 6,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "15² - 30 + 0 = ?",
+    "answer": 195,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^3 + 13 = ?",
+    "answer": 77,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√225 + 10 = ?",
+    "answer": 25,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6! ÷ 5! + 10 = ?",
+    "answer": 16,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^5 ÷ 3^1 + 3 = ?",
+    "answer": 84,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "16² - 32 + 0 = ?",
+    "answer": 224,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5^4 + 14 = ?",
+    "answer": 639,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√256 + 11 = ?",
+    "answer": 27,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7! ÷ 6! + 11 = ?",
+    "answer": 18,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^6 ÷ 4^2 + 4 = ?",
+    "answer": 260,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "17² - 34 + 0 = ?",
+    "answer": 255,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6^2 + 15 = ?",
+    "answer": 51,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√289 + 0 = ?",
+    "answer": 17,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8! ÷ 7! + 12 = ?",
+    "answer": 20,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^3 ÷ 2^1 + 5 = ?",
+    "answer": 9,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "18² - 36 + 0 = ?",
+    "answer": 288,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7^3 + 16 = ?",
+    "answer": 359,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√324 + 1 = ?",
+    "answer": 19,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9! ÷ 8! + 13 = ?",
+    "answer": 22,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^4 ÷ 3^2 + 6 = ?",
+    "answer": 15,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "19² - 38 + 0 = ?",
+    "answer": 323,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8^4 + 17 = ?",
+    "answer": 4113,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√361 + 2 = ?",
+    "answer": 21,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3! ÷ 2! + 14 = ?",
+    "answer": 17,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^5 ÷ 4^1 + 0 = ?",
+    "answer": 256,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "20² - 40 + 0 = ?",
+    "answer": 360,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9^2 + 18 = ?",
+    "answer": 99,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√400 + 3 = ?",
+    "answer": 23,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4! ÷ 3! + 15 = ?",
+    "answer": 19,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^6 ÷ 2^2 + 1 = ?",
+    "answer": 17,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "21² - 42 + 0 = ?",
+    "answer": 399,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^3 + 19 = ?",
+    "answer": 27,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√441 + 4 = ?",
+    "answer": 25,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5! ÷ 4! + 16 = ?",
+    "answer": 21,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^3 ÷ 3^1 + 2 = ?",
+    "answer": 11,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "22² - 44 + 0 = ?",
+    "answer": 440,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^4 + 20 = ?",
+    "answer": 101,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√484 + 5 = ?",
+    "answer": 27,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6! ÷ 5! + 17 = ?",
+    "answer": 23,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^4 ÷ 4^2 + 3 = ?",
+    "answer": 19,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "23² - 46 + 0 = ?",
+    "answer": 483,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^2 + 21 = ?",
+    "answer": 37,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√529 + 6 = ?",
+    "answer": 29,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7! ÷ 6! + 18 = ?",
+    "answer": 25,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^5 ÷ 2^1 + 4 = ?",
+    "answer": 20,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "24² - 48 + 0 = ?",
+    "answer": 528,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5^3 + 22 = ?",
+    "answer": 147,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√576 + 7 = ?",
+    "answer": 31,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8! ÷ 7! + 19 = ?",
+    "answer": 27,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^6 ÷ 3^2 + 5 = ?",
+    "answer": 86,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "25² - 50 + 0 = ?",
+    "answer": 575,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6^4 + 23 = ?",
+    "answer": 1319,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√625 + 8 = ?",
+    "answer": 33,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9! ÷ 8! + 20 = ?",
+    "answer": 29,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^3 ÷ 4^1 + 6 = ?",
+    "answer": 22,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6² - 12 + 1 = ?",
+    "answer": 25,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7^2 + 24 = ?",
+    "answer": 73,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√676 + 9 = ?",
+    "answer": 35,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3! ÷ 2! + 21 = ?",
+    "answer": 24,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^4 ÷ 2^2 + 0 = ?",
+    "answer": 4,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7² - 14 + 1 = ?",
+    "answer": 36,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8^3 + 25 = ?",
+    "answer": 537,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√729 + 10 = ?",
+    "answer": 37,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4! ÷ 3! + 22 = ?",
+    "answer": 26,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^5 ÷ 3^1 + 1 = ?",
+    "answer": 82,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8² - 16 + 1 = ?",
+    "answer": 49,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9^4 + 26 = ?",
+    "answer": 6587,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√784 + 11 = ?",
+    "answer": 39,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5! ÷ 4! + 23 = ?",
+    "answer": 28,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^6 ÷ 4^2 + 2 = ?",
+    "answer": 258,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9² - 18 + 1 = ?",
+    "answer": 64,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^2 + 27 = ?",
+    "answer": 31,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√841 + 0 = ?",
+    "answer": 29,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6! ÷ 5! + 24 = ?",
+    "answer": 30,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^3 ÷ 2^1 + 3 = ?",
+    "answer": 7,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "10² - 20 + 1 = ?",
+    "answer": 81,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^3 + 28 = ?",
+    "answer": 55,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√900 + 1 = ?",
+    "answer": 31,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7! ÷ 6! + 25 = ?",
+    "answer": 32,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^4 ÷ 3^2 + 4 = ?",
+    "answer": 13,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "11² - 22 + 1 = ?",
+    "answer": 100,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^4 + 29 = ?",
+    "answer": 285,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√961 + 2 = ?",
+    "answer": 33,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8! ÷ 7! + 26 = ?",
+    "answer": 34,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^5 ÷ 4^1 + 5 = ?",
+    "answer": 261,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "12² - 24 + 1 = ?",
+    "answer": 121,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5^2 + 30 = ?",
+    "answer": 55,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√1024 + 3 = ?",
+    "answer": 35,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9! ÷ 8! + 27 = ?",
+    "answer": 36,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^6 ÷ 2^2 + 6 = ?",
+    "answer": 22,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "13² - 26 + 1 = ?",
+    "answer": 144,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6^3 + 31 = ?",
+    "answer": 247,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√1089 + 4 = ?",
+    "answer": 37,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3! ÷ 2! + 28 = ?",
+    "answer": 31,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^3 ÷ 3^1 + 0 = ?",
+    "answer": 9,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "14² - 28 + 1 = ?",
+    "answer": 169,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7^4 + 32 = ?",
+    "answer": 2433,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√1156 + 5 = ?",
+    "answer": 39,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4! ÷ 3! + 29 = ?",
+    "answer": 33,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^4 ÷ 4^2 + 1 = ?",
+    "answer": 17,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "15² - 30 + 1 = ?",
+    "answer": 196,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8^2 + 33 = ?",
+    "answer": 97,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√1225 + 6 = ?",
+    "answer": 41,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5! ÷ 4! + 30 = ?",
+    "answer": 35,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^5 ÷ 2^1 + 2 = ?",
+    "answer": 18,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "16² - 32 + 1 = ?",
+    "answer": 225,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9^3 + 34 = ?",
+    "answer": 763,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√1296 + 7 = ?",
+    "answer": 43,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6! ÷ 5! + 31 = ?",
+    "answer": 37,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^6 ÷ 3^2 + 3 = ?",
+    "answer": 84,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "17² - 34 + 1 = ?",
+    "answer": 256,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^4 + 35 = ?",
+    "answer": 51,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√1369 + 8 = ?",
+    "answer": 45,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7! ÷ 6! + 32 = ?",
+    "answer": 39,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^3 ÷ 4^1 + 4 = ?",
+    "answer": 20,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "18² - 36 + 1 = ?",
+    "answer": 289,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^2 + 36 = ?",
+    "answer": 45,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√1444 + 9 = ?",
+    "answer": 47,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8! ÷ 7! + 33 = ?",
+    "answer": 41,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^4 ÷ 2^2 + 5 = ?",
+    "answer": 9,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "19² - 38 + 1 = ?",
+    "answer": 324,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^3 + 37 = ?",
+    "answer": 101,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√1521 + 10 = ?",
+    "answer": 49,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9! ÷ 8! + 34 = ?",
+    "answer": 43,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^5 ÷ 3^1 + 6 = ?",
+    "answer": 87,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "20² - 40 + 1 = ?",
+    "answer": 361,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5^4 + 38 = ?",
+    "answer": 663,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√1600 + 11 = ?",
+    "answer": 51,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3! ÷ 2! + 35 = ?",
+    "answer": 38,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^6 ÷ 4^2 + 0 = ?",
+    "answer": 256,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "21² - 42 + 1 = ?",
+    "answer": 400,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6^2 + 39 = ?",
+    "answer": 75,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√1681 + 0 = ?",
+    "answer": 41,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4! ÷ 3! + 36 = ?",
+    "answer": 40,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^3 ÷ 2^1 + 1 = ?",
+    "answer": 5,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "22² - 44 + 1 = ?",
+    "answer": 441,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7^3 + 40 = ?",
+    "answer": 383,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√1764 + 1 = ?",
+    "answer": 43,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5! ÷ 4! + 37 = ?",
+    "answer": 42,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^4 ÷ 3^2 + 2 = ?",
+    "answer": 11,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "23² - 46 + 1 = ?",
+    "answer": 484,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8^4 + 41 = ?",
+    "answer": 4137,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√1849 + 2 = ?",
+    "answer": 45,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6! ÷ 5! + 38 = ?",
+    "answer": 44,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^5 ÷ 4^1 + 3 = ?",
+    "answer": 259,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "24² - 48 + 1 = ?",
+    "answer": 529,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9^2 + 42 = ?",
+    "answer": 123,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√1936 + 3 = ?",
+    "answer": 47,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7! ÷ 6! + 39 = ?",
+    "answer": 46,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^6 ÷ 2^2 + 4 = ?",
+    "answer": 20,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "25² - 50 + 1 = ?",
+    "answer": 576,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^3 + 43 = ?",
+    "answer": 51,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√2025 + 4 = ?",
+    "answer": 49,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8! ÷ 7! + 40 = ?",
+    "answer": 48,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^3 ÷ 3^1 + 5 = ?",
+    "answer": 14,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6² - 12 + 2 = ?",
+    "answer": 26,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^4 + 44 = ?",
+    "answer": 125,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√2116 + 5 = ?",
+    "answer": 51,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9! ÷ 8! + 41 = ?",
+    "answer": 50,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^4 ÷ 4^2 + 6 = ?",
+    "answer": 22,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7² - 14 + 2 = ?",
+    "answer": 37,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^2 + 45 = ?",
+    "answer": 61,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√2209 + 6 = ?",
+    "answer": 53,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3! ÷ 2! + 42 = ?",
+    "answer": 45,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^5 ÷ 2^1 + 0 = ?",
+    "answer": 16,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8² - 16 + 2 = ?",
+    "answer": 50,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5^3 + 46 = ?",
+    "answer": 171,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√2304 + 7 = ?",
+    "answer": 55,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4! ÷ 3! + 43 = ?",
+    "answer": 47,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^6 ÷ 3^2 + 1 = ?",
+    "answer": 82,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9² - 18 + 2 = ?",
+    "answer": 65,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6^4 + 47 = ?",
+    "answer": 1343,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√2401 + 8 = ?",
+    "answer": 57,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5! ÷ 4! + 44 = ?",
+    "answer": 49,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^3 ÷ 4^1 + 2 = ?",
+    "answer": 18,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "10² - 20 + 2 = ?",
+    "answer": 82,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7^2 + 48 = ?",
+    "answer": 97,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√2500 + 9 = ?",
+    "answer": 59,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6! ÷ 5! + 45 = ?",
+    "answer": 51,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^4 ÷ 2^2 + 3 = ?",
+    "answer": 7,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "11² - 22 + 2 = ?",
+    "answer": 101,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8^3 + 49 = ?",
+    "answer": 561,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√2601 + 10 = ?",
+    "answer": 61,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7! ÷ 6! + 46 = ?",
+    "answer": 53,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^5 ÷ 3^1 + 4 = ?",
+    "answer": 85,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "12² - 24 + 2 = ?",
+    "answer": 122,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9^4 + 50 = ?",
+    "answer": 6611,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√2704 + 11 = ?",
+    "answer": 63,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8! ÷ 7! + 47 = ?",
+    "answer": 55,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4^6 ÷ 4^2 + 5 = ?",
+    "answer": 261,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "13² - 26 + 2 = ?",
+    "answer": 145,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^2 + 51 = ?",
+    "answer": 55,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√2809 + 0 = ?",
+    "answer": 53,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "9! ÷ 8! + 48 = ?",
+    "answer": 57,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2^3 ÷ 2^1 + 6 = ?",
+    "answer": 10,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "14² - 28 + 2 = ?",
+    "answer": 170,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^3 + 52 = ?",
+    "answer": 79,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "√2916 + 1 = ?",
+    "answer": 55,
+    "level": 2,
+    "topic": "square roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3! ÷ 2! + 49 = ?",
+    "answer": 52,
+    "level": 2,
+    "topic": "factorials",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3^4 ÷ 3^2 + 0 = ?",
+    "answer": 9,
+    "level": 2,
+    "topic": "powers and exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "15² - 30 + 2 = ?",
+    "answer": 197,
+    "level": 2,
+    "topic": "powers and roots",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 3 = 7\nFind x",
+    "answer": 2,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 5 = 1x + 11\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 3y = 8, y = 2\nFind x",
+    "answer": 1,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/2 + 0 = 2\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2(x + 0) = 4\nFind x",
+    "answer": 2,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 4 = 13\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 6 = 2x + 14\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 4y = 18, y = 3\nFind x",
+    "answer": 2,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/3 + 1 = 4\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3(x + 1) = 12\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 5 = 21\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 7 = 1x + 27\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 5y = 32, y = 4\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/4 + 2 = 6\nFind x",
+    "answer": 16,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4(x + 2) = 24\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 6 = 31\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 8 = 2x + 32\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 6y = 50, y = 5\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/5 + 3 = 8\nFind x",
+    "answer": 25,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5(x + 3) = 40\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 7 = 43\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 9 = 1x + 51\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 7y = 72, y = 6\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/6 + 4 = 10\nFind x",
+    "answer": 36,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6(x + 4) = 60\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 8 = 57\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 10 = 2x + 58\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 8y = 68, y = 7\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/7 + 5 = 12\nFind x",
+    "answer": 49,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2(x + 5) = 24\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 9 = 73\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 11 = 1x + 29\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 3y = 45, y = 8\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/8 + 6 = 14\nFind x",
+    "answer": 64,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3(x + 6) = 42\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 10 = 28\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 12 = 2x + 32\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 4y = 68, y = 9\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/2 + 7 = 16\nFind x",
+    "answer": 18,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4(x + 7) = 64\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 11 = 41\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 13 = 1x + 57\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 5y = 95, y = 10\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/3 + 0 = 10\nFind x",
+    "answer": 30,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5(x + 8) = 90\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 12 = 56\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 14 = 2x + 62\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 6y = 72, y = 2\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/4 + 1 = 12\nFind x",
+    "answer": 44,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6(x + 0) = 66\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 13 = 73\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 15 = 1x + 93\nFind x",
+    "answer": 13,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 7y = 43, y = 3\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/5 + 2 = 14\nFind x",
+    "answer": 60,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2(x + 1) = 26\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 14 = 92\nFind x",
+    "answer": 13,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 16 = 2x + 100\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 8y = 68, y = 4\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/6 + 3 = 16\nFind x",
+    "answer": 78,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3(x + 2) = 45\nFind x",
+    "answer": 13,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 15 = 113\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 17 = 1x + 23\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 3y = 67, y = 5\nFind x",
+    "answer": 13,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/7 + 4 = 6\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4(x + 3) = 68\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 16 = 136\nFind x",
+    "answer": 15,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 18 = 2x + 26\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 4y = 94, y = 6\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/8 + 5 = 8\nFind x",
+    "answer": 24,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5(x + 4) = 30\nFind x",
+    "answer": 2,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 17 = 49\nFind x",
+    "answer": 16,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 19 = 1x + 39\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 5y = 41, y = 7\nFind x",
+    "answer": 1,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/2 + 6 = 10\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6(x + 5) = 48\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 18 = 24\nFind x",
+    "answer": 2,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 20 = 2x + 44\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 6y = 52, y = 8\nFind x",
+    "answer": 2,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/3 + 7 = 12\nFind x",
+    "answer": 15,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2(x + 6) = 20\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 19 = 31\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 21 = 1x + 63\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 7y = 72, y = 9\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/4 + 0 = 6\nFind x",
+    "answer": 24,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3(x + 7) = 36\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 20 = 40\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 22 = 2x + 70\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 8y = 96, y = 10\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/5 + 1 = 8\nFind x",
+    "answer": 35,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4(x + 8) = 56\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 21 = 51\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 23 = 1x + 41\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 3y = 31, y = 2\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/6 + 2 = 10\nFind x",
+    "answer": 48,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5(x + 0) = 35\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 22 = 64\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 24 = 2x + 44\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 4y = 48, y = 3\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/7 + 3 = 12\nFind x",
+    "answer": 63,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6(x + 1) = 54\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 23 = 79\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 25 = 1x + 69\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 5y = 34, y = 4\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/8 + 4 = 14\nFind x",
+    "answer": 80,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2(x + 2) = 22\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 24 = 40\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 26 = 2x + 74\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 6y = 54, y = 5\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/2 + 5 = 16\nFind x",
+    "answer": 22,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3(x + 3) = 39\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 25 = 52\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 27 = 1x + 105\nFind x",
+    "answer": 13,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 7y = 78, y = 6\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/3 + 6 = 18\nFind x",
+    "answer": 36,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4(x + 4) = 60\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 26 = 66\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 28 = 2x + 112\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 8y = 106, y = 7\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/4 + 7 = 20\nFind x",
+    "answer": 52,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5(x + 5) = 85\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 27 = 82\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 29 = 1x + 35\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 3y = 90, y = 8\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/5 + 0 = 2\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6(x + 6) = 114\nFind x",
+    "answer": 13,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 28 = 100\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 30 = 2x + 38\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 4y = 60, y = 9\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/6 + 1 = 4\nFind x",
+    "answer": 18,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2(x + 7) = 42\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 29 = 120\nFind x",
+    "answer": 13,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 31 = 1x + 51\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 5y = 89, y = 10\nFind x",
+    "answer": 13,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/7 + 2 = 6\nFind x",
+    "answer": 28,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3(x + 8) = 30\nFind x",
+    "answer": 2,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 30 = 142\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 32 = 2x + 56\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 6y = 68, y = 2\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/8 + 3 = 8\nFind x",
+    "answer": 40,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4(x + 0) = 12\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 31 = 61\nFind x",
+    "answer": 15,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 33 = 1x + 75\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 7y = 26, y = 3\nFind x",
+    "answer": 1,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/2 + 4 = 10\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5(x + 1) = 25\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 32 = 80\nFind x",
+    "answer": 16,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 34 = 2x + 82\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 8y = 44, y = 4\nFind x",
+    "answer": 2,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/3 + 5 = 12\nFind x",
+    "answer": 21,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6(x + 2) = 42\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 33 = 41\nFind x",
+    "answer": 2,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 35 = 1x + 53\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 3y = 21, y = 5\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/4 + 6 = 14\nFind x",
+    "answer": 32,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2(x + 3) = 18\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 34 = 49\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 36 = 2x + 56\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 4y = 36, y = 6\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/5 + 7 = 16\nFind x",
+    "answer": 45,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3(x + 4) = 33\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 35 = 59\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 37 = 1x + 81\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 5y = 55, y = 7\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/6 + 0 = 10\nFind x",
+    "answer": 60,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4(x + 5) = 52\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 36 = 71\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 38 = 2x + 86\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 6y = 78, y = 8\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/7 + 1 = 12\nFind x",
+    "answer": 77,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5(x + 6) = 75\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 37 = 85\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 39 = 1x + 117\nFind x",
+    "answer": 13,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 7y = 105, y = 9\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/8 + 2 = 14\nFind x",
+    "answer": 96,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6(x + 7) = 102\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 38 = 52\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 40 = 2x + 124\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 8y = 96, y = 10\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/2 + 3 = 16\nFind x",
+    "answer": 26,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2(x + 8) = 38\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 39 = 63\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 41 = 1x + 47\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 3y = 33, y = 2\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/3 + 4 = 6\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3(x + 0) = 36\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 40 = 76\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 42 = 2x + 50\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 4y = 52, y = 3\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/4 + 5 = 8\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4(x + 1) = 56\nFind x",
+    "answer": 13,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 41 = 91\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 43 = 1x + 63\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 5y = 75, y = 4\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/5 + 6 = 10\nFind x",
+    "answer": 20,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5(x + 2) = 80\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 42 = 108\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 44 = 2x + 68\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 6y = 102, y = 5\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/6 + 7 = 12\nFind x",
+    "answer": 30,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6(x + 3) = 30\nFind x",
+    "answer": 2,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 43 = 127\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 45 = 1x + 87\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 7y = 68, y = 6\nFind x",
+    "answer": 13,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/7 + 0 = 6\nFind x",
+    "answer": 42,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2(x + 4) = 14\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 44 = 148\nFind x",
+    "answer": 13,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 46 = 2x + 94\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 8y = 98, y = 7\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/8 + 1 = 8\nFind x",
+    "answer": 56,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3(x + 5) = 27\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 45 = 73\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 47 = 1x + 65\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 3y = 28, y = 8\nFind x",
+    "answer": 1,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/2 + 2 = 10\nFind x",
+    "answer": 16,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4(x + 6) = 44\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 46 = 91\nFind x",
+    "answer": 15,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 48 = 2x + 68\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 4y = 46, y = 9\nFind x",
+    "answer": 2,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/3 + 3 = 12\nFind x",
+    "answer": 27,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5(x + 7) = 65\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 47 = 111\nFind x",
+    "answer": 16,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 49 = 1x + 93\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 5y = 68, y = 10\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/4 + 4 = 14\nFind x",
+    "answer": 40,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6(x + 8) = 90\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 48 = 58\nFind x",
+    "answer": 2,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 50 = 2x + 98\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 6y = 20, y = 2\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/5 + 5 = 16\nFind x",
+    "answer": 55,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2(x + 0) = 16\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 49 = 67\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 51 = 1x + 129\nFind x",
+    "answer": 13,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 7y = 36, y = 3\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/6 + 6 = 18\nFind x",
+    "answer": 72,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3(x + 1) = 30\nFind x",
+    "answer": 9,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "7x + 50 = 78\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 52 = 2x + 136\nFind x",
+    "answer": 14,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 8y = 56, y = 4\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/7 + 7 = 20\nFind x",
+    "answer": 91,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4(x + 2) = 48\nFind x",
+    "answer": 10,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "8x + 51 = 91\nFind x",
+    "answer": 5,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "3x + 53 = 1x + 59\nFind x",
+    "answer": 3,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5x + 3y = 50, y = 5\nFind x",
+    "answer": 7,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/8 + 0 = 2\nFind x",
+    "answer": 16,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "5(x + 3) = 70\nFind x",
+    "answer": 11,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "2x + 52 = 64\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "4x + 54 = 2x + 62\nFind x",
+    "answer": 4,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6x + 4y = 72, y = 6\nFind x",
+    "answer": 8,
+    "level": 3,
+    "topic": "simultaneous equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x/2 + 1 = 4\nFind x",
+    "answer": 6,
+    "level": 3,
+    "topic": "linear equations",
+    "difficulty": "medium"
+  },
+  {
+    "question": "6(x + 4) = 96\nFind x",
+    "answer": 12,
+    "level": 3,
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "x² - 3x + 2 = 0\nFind larger root",
+    "answer": 2,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 5x + 6 = 0\nFind larger root",
+    "answer": 3,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 7x + 12 = 0\nFind larger root",
+    "answer": 4,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 9x + 20 = 0\nFind larger root",
+    "answer": 5,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 11x + 30 = 0\nFind larger root",
+    "answer": 6,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 13x + 42 = 0\nFind larger root",
+    "answer": 7,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 15x + 56 = 0\nFind larger root",
+    "answer": 8,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 17x + 72 = 0\nFind larger root",
+    "answer": 9,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 19x + 90 = 0\nFind larger root",
+    "answer": 10,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 21x + 110 = 0\nFind larger root",
+    "answer": 11,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 4x + 3 = 0\nFind larger root",
+    "answer": 3,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 6x + 8 = 0\nFind larger root",
+    "answer": 4,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 8x + 15 = 0\nFind larger root",
+    "answer": 5,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 10x + 24 = 0\nFind larger root",
+    "answer": 6,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 12x + 35 = 0\nFind larger root",
+    "answer": 7,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 14x + 48 = 0\nFind larger root",
+    "answer": 8,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 16x + 63 = 0\nFind larger root",
+    "answer": 9,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 18x + 80 = 0\nFind larger root",
+    "answer": 10,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 20x + 99 = 0\nFind larger root",
+    "answer": 11,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 22x + 120 = 0\nFind larger root",
+    "answer": 12,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 5x + 4 = 0\nFind larger root",
+    "answer": 4,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 7x + 10 = 0\nFind larger root",
+    "answer": 5,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 9x + 18 = 0\nFind larger root",
+    "answer": 6,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 11x + 28 = 0\nFind larger root",
+    "answer": 7,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 13x + 40 = 0\nFind larger root",
+    "answer": 8,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 15x + 54 = 0\nFind larger root",
+    "answer": 9,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 17x + 70 = 0\nFind larger root",
+    "answer": 10,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 19x + 88 = 0\nFind larger root",
+    "answer": 11,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 21x + 108 = 0\nFind larger root",
+    "answer": 12,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 23x + 130 = 0\nFind larger root",
+    "answer": 13,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 6x + 5 = 0\nFind larger root",
+    "answer": 5,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 8x + 12 = 0\nFind larger root",
+    "answer": 6,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 10x + 21 = 0\nFind larger root",
+    "answer": 7,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 12x + 32 = 0\nFind larger root",
+    "answer": 8,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 14x + 45 = 0\nFind larger root",
+    "answer": 9,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 16x + 60 = 0\nFind larger root",
+    "answer": 10,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 18x + 77 = 0\nFind larger root",
+    "answer": 11,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 20x + 96 = 0\nFind larger root",
+    "answer": 12,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 22x + 117 = 0\nFind larger root",
+    "answer": 13,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 24x + 140 = 0\nFind larger root",
+    "answer": 14,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 7x + 6 = 0\nFind larger root",
+    "answer": 6,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 9x + 14 = 0\nFind larger root",
+    "answer": 7,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 11x + 24 = 0\nFind larger root",
+    "answer": 8,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 13x + 36 = 0\nFind larger root",
+    "answer": 9,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 15x + 50 = 0\nFind larger root",
+    "answer": 10,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 17x + 66 = 0\nFind larger root",
+    "answer": 11,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 19x + 84 = 0\nFind larger root",
+    "answer": 12,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 21x + 104 = 0\nFind larger root",
+    "answer": 13,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 23x + 126 = 0\nFind larger root",
+    "answer": 14,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 25x + 150 = 0\nFind larger root",
+    "answer": 15,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 8x + 7 = 0\nFind larger root",
+    "answer": 7,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 10x + 16 = 0\nFind larger root",
+    "answer": 8,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 12x + 27 = 0\nFind larger root",
+    "answer": 9,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 14x + 40 = 0\nFind larger root",
+    "answer": 10,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 16x + 55 = 0\nFind larger root",
+    "answer": 11,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 18x + 72 = 0\nFind larger root",
+    "answer": 12,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 20x + 91 = 0\nFind larger root",
+    "answer": 13,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 22x + 112 = 0\nFind larger root",
+    "answer": 14,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 24x + 135 = 0\nFind larger root",
+    "answer": 15,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 26x + 160 = 0\nFind larger root",
+    "answer": 16,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 9x + 8 = 0\nFind larger root",
+    "answer": 8,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 11x + 18 = 0\nFind larger root",
+    "answer": 9,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 13x + 30 = 0\nFind larger root",
+    "answer": 10,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 15x + 44 = 0\nFind larger root",
+    "answer": 11,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 17x + 60 = 0\nFind larger root",
+    "answer": 12,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 19x + 78 = 0\nFind larger root",
+    "answer": 13,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 21x + 98 = 0\nFind larger root",
+    "answer": 14,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 23x + 120 = 0\nFind larger root",
+    "answer": 15,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 25x + 144 = 0\nFind larger root",
+    "answer": 16,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 27x + 170 = 0\nFind larger root",
+    "answer": 17,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 10x + 9 = 0\nFind larger root",
+    "answer": 9,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 12x + 20 = 0\nFind larger root",
+    "answer": 10,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 14x + 33 = 0\nFind larger root",
+    "answer": 11,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 16x + 48 = 0\nFind larger root",
+    "answer": 12,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 18x + 65 = 0\nFind larger root",
+    "answer": 13,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 20x + 84 = 0\nFind larger root",
+    "answer": 14,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 22x + 105 = 0\nFind larger root",
+    "answer": 15,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 24x + 128 = 0\nFind larger root",
+    "answer": 16,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 26x + 153 = 0\nFind larger root",
+    "answer": 17,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 28x + 180 = 0\nFind larger root",
+    "answer": 18,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 11x + 10 = 0\nFind larger root",
+    "answer": 10,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 13x + 22 = 0\nFind larger root",
+    "answer": 11,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 15x + 36 = 0\nFind larger root",
+    "answer": 12,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 17x + 52 = 0\nFind larger root",
+    "answer": 13,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 19x + 70 = 0\nFind larger root",
+    "answer": 14,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 21x + 90 = 0\nFind larger root",
+    "answer": 15,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 23x + 112 = 0\nFind larger root",
+    "answer": 16,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 25x + 136 = 0\nFind larger root",
+    "answer": 17,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 27x + 162 = 0\nFind larger root",
+    "answer": 18,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 29x + 190 = 0\nFind larger root",
+    "answer": 19,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 12x + 11 = 0\nFind larger root",
+    "answer": 11,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 14x + 24 = 0\nFind larger root",
+    "answer": 12,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 16x + 39 = 0\nFind larger root",
+    "answer": 13,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 18x + 56 = 0\nFind larger root",
+    "answer": 14,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 20x + 75 = 0\nFind larger root",
+    "answer": 15,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 22x + 96 = 0\nFind larger root",
+    "answer": 16,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 24x + 119 = 0\nFind larger root",
+    "answer": 17,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 26x + 144 = 0\nFind larger root",
+    "answer": 18,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 28x + 171 = 0\nFind larger root",
+    "answer": 19,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x² - 30x + 200 = 0\nFind larger root",
+    "answer": 20,
+    "level": 4,
+    "topic": "quadratic equations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 6P2",
+    "answer": 30,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 6C2",
+    "answer": 15,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 6P3",
+    "answer": 120,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 6C3",
+    "answer": 20,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 6P4",
+    "answer": 360,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 6C4",
+    "answer": 15,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 7P2",
+    "answer": 42,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 7C2",
+    "answer": 21,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 7P3",
+    "answer": 210,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 7C3",
+    "answer": 35,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 7P4",
+    "answer": 840,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 7C4",
+    "answer": 35,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 8P2",
+    "answer": 56,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 8C2",
+    "answer": 28,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 8P3",
+    "answer": 336,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 8C3",
+    "answer": 56,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 8P4",
+    "answer": 1680,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 8C4",
+    "answer": 70,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 9P2",
+    "answer": 72,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 9C2",
+    "answer": 36,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 9P3",
+    "answer": 504,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 9C3",
+    "answer": 84,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 9P4",
+    "answer": 3024,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 9C4",
+    "answer": 126,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 10P2",
+    "answer": 90,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 10C2",
+    "answer": 45,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 10P3",
+    "answer": 720,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 10C3",
+    "answer": 120,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 10P4",
+    "answer": 5040,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 10C4",
+    "answer": 210,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 11P2",
+    "answer": 110,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 11C2",
+    "answer": 55,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 11P3",
+    "answer": 990,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 11C3",
+    "answer": 165,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 11P4",
+    "answer": 7920,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 11C4",
+    "answer": 330,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 12P2",
+    "answer": 132,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 12C2",
+    "answer": 66,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 12P3",
+    "answer": 1320,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 12C3",
+    "answer": 220,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 12P4",
+    "answer": 11880,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 12C4",
+    "answer": 495,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 13P2",
+    "answer": 156,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 13C2",
+    "answer": 78,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 13P3",
+    "answer": 1716,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 13C3",
+    "answer": 286,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 13P4",
+    "answer": 17160,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 13C4",
+    "answer": 715,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 14P2",
+    "answer": 182,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 14C2",
+    "answer": 91,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 14P3",
+    "answer": 2184,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 14C3",
+    "answer": 364,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 14P4",
+    "answer": 24024,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 14C4",
+    "answer": 1001,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 15P2",
+    "answer": 210,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 15C2",
+    "answer": 105,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 15P3",
+    "answer": 2730,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 15C3",
+    "answer": 455,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 15P4",
+    "answer": 32760,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 15C4",
+    "answer": 1365,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 16P2",
+    "answer": 240,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 16C2",
+    "answer": 120,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 16P3",
+    "answer": 3360,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 16C3",
+    "answer": 560,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 16P4",
+    "answer": 43680,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 16C4",
+    "answer": 1820,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 17P2",
+    "answer": 272,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 17C2",
+    "answer": 136,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 17P3",
+    "answer": 4080,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 17C3",
+    "answer": 680,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 17P4",
+    "answer": 57120,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 17C4",
+    "answer": 2380,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 18P2",
+    "answer": 306,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 18C2",
+    "answer": 153,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 18P3",
+    "answer": 4896,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 18C3",
+    "answer": 816,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 18P4",
+    "answer": 73440,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 18C4",
+    "answer": 3060,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 19P2",
+    "answer": 342,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 19C2",
+    "answer": 171,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 19P3",
+    "answer": 5814,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 19C3",
+    "answer": 969,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 19P4",
+    "answer": 93024,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 19C4",
+    "answer": 3876,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 20P2",
+    "answer": 380,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 20C2",
+    "answer": 190,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 20P3",
+    "answer": 6840,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 20C3",
+    "answer": 1140,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 20P4",
+    "answer": 116280,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 20C4",
+    "answer": 4845,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 21P2",
+    "answer": 420,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 21C2",
+    "answer": 210,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 21P3",
+    "answer": 7980,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 21C3",
+    "answer": 1330,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 21P4",
+    "answer": 143640,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 21C4",
+    "answer": 5985,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 22P2",
+    "answer": 462,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 22C2",
+    "answer": 231,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 22P3",
+    "answer": 9240,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 22C3",
+    "answer": 1540,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 22P4",
+    "answer": 175560,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 22C4",
+    "answer": 7315,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 23P2",
+    "answer": 506,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 23C2",
+    "answer": 253,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 23P3",
+    "answer": 10626,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 23C3",
+    "answer": 1771,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 23P4",
+    "answer": 212520,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 23C4",
+    "answer": 8855,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 24P2",
+    "answer": 552,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 24C2",
+    "answer": 276,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 24P3",
+    "answer": 12144,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 24C3",
+    "answer": 2024,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 24P4",
+    "answer": 255024,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 24C4",
+    "answer": 10626,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 25P2",
+    "answer": 600,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 25C2",
+    "answer": 300,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 25P3",
+    "answer": 13800,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 25C3",
+    "answer": 2300,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 25P4",
+    "answer": 303600,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 25C4",
+    "answer": 12650,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 26P2",
+    "answer": 650,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 26C2",
+    "answer": 325,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 26P3",
+    "answer": 15600,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 26C3",
+    "answer": 2600,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 26P4",
+    "answer": 358800,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 26C4",
+    "answer": 14950,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 27P2",
+    "answer": 702,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 27C2",
+    "answer": 351,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 27P3",
+    "answer": 17550,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 27C3",
+    "answer": 2925,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 27P4",
+    "answer": 421200,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 27C4",
+    "answer": 17550,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 28P2",
+    "answer": 756,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 28C2",
+    "answer": 378,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 28P3",
+    "answer": 19656,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 28C3",
+    "answer": 3276,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 28P4",
+    "answer": 491400,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 28C4",
+    "answer": 20475,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 29P2",
+    "answer": 812,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 29C2",
+    "answer": 406,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 29P3",
+    "answer": 21924,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 29C3",
+    "answer": 3654,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 29P4",
+    "answer": 570024,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 29C4",
+    "answer": 23751,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 30P2",
+    "answer": 870,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 30C2",
+    "answer": 435,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 30P3",
+    "answer": 24360,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 30C3",
+    "answer": 4060,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 30P4",
+    "answer": 657720,
+    "level": 4,
+    "topic": "permutations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Find 30C4",
+    "answer": 27405,
+    "level": 4,
+    "topic": "combinations",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(2x + 0) dx\nfrom 0 to 4 = ?",
+    "answer": 16,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(1x² + 0) dx\nfrom 0 to 3 = ?",
+    "answer": 9,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 3, x ≠ 0\nFind x² + 1/x²",
+    "answer": 7,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 22, ab = 40\nFind a² + b²",
+    "answer": 404,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 1, x ≠ 0\nFind x² + 1/x²",
+    "answer": 3,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(3x + 0) dx\nfrom 0 to 4 = ?",
+    "answer": 24,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(2x² + 0) dx\nfrom 0 to 3 = ?",
+    "answer": 18,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 4, x ≠ 0\nFind x² + 1/x²",
+    "answer": 14,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 23, ab = 60\nFind a² + b²",
+    "answer": 409,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 2, x ≠ 0\nFind x² + 1/x²",
+    "answer": 6,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(4x + 0) dx\nfrom 0 to 4 = ?",
+    "answer": 32,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(3x² + 0) dx\nfrom 0 to 3 = ?",
+    "answer": 27,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 5, x ≠ 0\nFind x² + 1/x²",
+    "answer": 23,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 24, ab = 80\nFind a² + b²",
+    "answer": 416,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 3, x ≠ 0\nFind x² + 1/x²",
+    "answer": 11,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(5x + 0) dx\nfrom 0 to 4 = ?",
+    "answer": 40,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(4x² + 0) dx\nfrom 0 to 3 = ?",
+    "answer": 36,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 6, x ≠ 0\nFind x² + 1/x²",
+    "answer": 34,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 25, ab = 100\nFind a² + b²",
+    "answer": 425,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 4, x ≠ 0\nFind x² + 1/x²",
+    "answer": 18,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(6x + 0) dx\nfrom 0 to 4 = ?",
+    "answer": 48,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(5x² + 0) dx\nfrom 0 to 3 = ?",
+    "answer": 45,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 7, x ≠ 0\nFind x² + 1/x²",
+    "answer": 47,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 26, ab = 120\nFind a² + b²",
+    "answer": 436,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 5, x ≠ 0\nFind x² + 1/x²",
+    "answer": 27,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(7x + 0) dx\nfrom 0 to 4 = ?",
+    "answer": 56,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(6x² + 0) dx\nfrom 0 to 3 = ?",
+    "answer": 54,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 8, x ≠ 0\nFind x² + 1/x²",
+    "answer": 62,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 27, ab = 140\nFind a² + b²",
+    "answer": 449,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 6, x ≠ 0\nFind x² + 1/x²",
+    "answer": 38,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(8x + 0) dx\nfrom 0 to 4 = ?",
+    "answer": 64,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(7x² + 0) dx\nfrom 0 to 3 = ?",
+    "answer": 63,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 9, x ≠ 0\nFind x² + 1/x²",
+    "answer": 79,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 28, ab = 160\nFind a² + b²",
+    "answer": 464,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 7, x ≠ 0\nFind x² + 1/x²",
+    "answer": 51,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(9x + 0) dx\nfrom 0 to 4 = ?",
+    "answer": 72,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(8x² + 0) dx\nfrom 0 to 3 = ?",
+    "answer": 72,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 10, x ≠ 0\nFind x² + 1/x²",
+    "answer": 98,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 29, ab = 180\nFind a² + b²",
+    "answer": 481,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 8, x ≠ 0\nFind x² + 1/x²",
+    "answer": 66,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(10x + 0) dx\nfrom 0 to 4 = ?",
+    "answer": 80,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(9x² + 0) dx\nfrom 0 to 3 = ?",
+    "answer": 81,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 11, x ≠ 0\nFind x² + 1/x²",
+    "answer": 119,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 30, ab = 200\nFind a² + b²",
+    "answer": 500,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 9, x ≠ 0\nFind x² + 1/x²",
+    "answer": 83,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(11x + 0) dx\nfrom 0 to 4 = ?",
+    "answer": 88,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(10x² + 0) dx\nfrom 0 to 3 = ?",
+    "answer": 90,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 12, x ≠ 0\nFind x² + 1/x²",
+    "answer": 142,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 31, ab = 220\nFind a² + b²",
+    "answer": 521,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 10, x ≠ 0\nFind x² + 1/x²",
+    "answer": 102,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(2x + 1) dx\nfrom 0 to 4 = ?",
+    "answer": 20,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(1x² + 1) dx\nfrom 0 to 3 = ?",
+    "answer": 12,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 13, x ≠ 0\nFind x² + 1/x²",
+    "answer": 167,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 23, ab = 42\nFind a² + b²",
+    "answer": 445,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 11, x ≠ 0\nFind x² + 1/x²",
+    "answer": 123,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(3x + 1) dx\nfrom 0 to 4 = ?",
+    "answer": 28,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(2x² + 1) dx\nfrom 0 to 3 = ?",
+    "answer": 21,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 14, x ≠ 0\nFind x² + 1/x²",
+    "answer": 194,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 24, ab = 63\nFind a² + b²",
+    "answer": 450,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 12, x ≠ 0\nFind x² + 1/x²",
+    "answer": 146,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(4x + 1) dx\nfrom 0 to 4 = ?",
+    "answer": 36,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(3x² + 1) dx\nfrom 0 to 3 = ?",
+    "answer": 30,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 15, x ≠ 0\nFind x² + 1/x²",
+    "answer": 223,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 25, ab = 84\nFind a² + b²",
+    "answer": 457,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 13, x ≠ 0\nFind x² + 1/x²",
+    "answer": 171,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(5x + 1) dx\nfrom 0 to 4 = ?",
+    "answer": 44,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(4x² + 1) dx\nfrom 0 to 3 = ?",
+    "answer": 39,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 16, x ≠ 0\nFind x² + 1/x²",
+    "answer": 254,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 26, ab = 105\nFind a² + b²",
+    "answer": 466,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 14, x ≠ 0\nFind x² + 1/x²",
+    "answer": 198,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(6x + 1) dx\nfrom 0 to 4 = ?",
+    "answer": 52,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(5x² + 1) dx\nfrom 0 to 3 = ?",
+    "answer": 48,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 17, x ≠ 0\nFind x² + 1/x²",
+    "answer": 287,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 27, ab = 126\nFind a² + b²",
+    "answer": 477,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 15, x ≠ 0\nFind x² + 1/x²",
+    "answer": 227,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(7x + 1) dx\nfrom 0 to 4 = ?",
+    "answer": 60,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(6x² + 1) dx\nfrom 0 to 3 = ?",
+    "answer": 57,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 18, x ≠ 0\nFind x² + 1/x²",
+    "answer": 322,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 28, ab = 147\nFind a² + b²",
+    "answer": 490,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 16, x ≠ 0\nFind x² + 1/x²",
+    "answer": 258,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(8x + 1) dx\nfrom 0 to 4 = ?",
+    "answer": 68,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(7x² + 1) dx\nfrom 0 to 3 = ?",
+    "answer": 66,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 19, x ≠ 0\nFind x² + 1/x²",
+    "answer": 359,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 29, ab = 168\nFind a² + b²",
+    "answer": 505,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 17, x ≠ 0\nFind x² + 1/x²",
+    "answer": 291,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(9x + 1) dx\nfrom 0 to 4 = ?",
+    "answer": 76,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(8x² + 1) dx\nfrom 0 to 3 = ?",
+    "answer": 75,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 20, x ≠ 0\nFind x² + 1/x²",
+    "answer": 398,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 30, ab = 189\nFind a² + b²",
+    "answer": 522,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 18, x ≠ 0\nFind x² + 1/x²",
+    "answer": 326,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(10x + 1) dx\nfrom 0 to 4 = ?",
+    "answer": 84,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(9x² + 1) dx\nfrom 0 to 3 = ?",
+    "answer": 84,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 21, x ≠ 0\nFind x² + 1/x²",
+    "answer": 439,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 31, ab = 210\nFind a² + b²",
+    "answer": 541,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 19, x ≠ 0\nFind x² + 1/x²",
+    "answer": 363,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(11x + 1) dx\nfrom 0 to 4 = ?",
+    "answer": 92,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(10x² + 1) dx\nfrom 0 to 3 = ?",
+    "answer": 93,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 22, x ≠ 0\nFind x² + 1/x²",
+    "answer": 482,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 32, ab = 231\nFind a² + b²",
+    "answer": 562,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 20, x ≠ 0\nFind x² + 1/x²",
+    "answer": 402,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(2x + 2) dx\nfrom 0 to 4 = ?",
+    "answer": 24,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(1x² + 2) dx\nfrom 0 to 3 = ?",
+    "answer": 15,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 23, x ≠ 0\nFind x² + 1/x²",
+    "answer": 527,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 24, ab = 44\nFind a² + b²",
+    "answer": 488,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 21, x ≠ 0\nFind x² + 1/x²",
+    "answer": 443,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(3x + 2) dx\nfrom 0 to 4 = ?",
+    "answer": 32,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(2x² + 2) dx\nfrom 0 to 3 = ?",
+    "answer": 24,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 24, x ≠ 0\nFind x² + 1/x²",
+    "answer": 574,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 25, ab = 66\nFind a² + b²",
+    "answer": 493,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 22, x ≠ 0\nFind x² + 1/x²",
+    "answer": 486,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(4x + 2) dx\nfrom 0 to 4 = ?",
+    "answer": 40,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(3x² + 2) dx\nfrom 0 to 3 = ?",
+    "answer": 33,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 25, x ≠ 0\nFind x² + 1/x²",
+    "answer": 623,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 26, ab = 88\nFind a² + b²",
+    "answer": 500,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 23, x ≠ 0\nFind x² + 1/x²",
+    "answer": 531,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(5x + 2) dx\nfrom 0 to 4 = ?",
+    "answer": 48,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(4x² + 2) dx\nfrom 0 to 3 = ?",
+    "answer": 42,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 26, x ≠ 0\nFind x² + 1/x²",
+    "answer": 674,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 27, ab = 110\nFind a² + b²",
+    "answer": 509,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 24, x ≠ 0\nFind x² + 1/x²",
+    "answer": 578,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(6x + 2) dx\nfrom 0 to 4 = ?",
+    "answer": 56,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(5x² + 2) dx\nfrom 0 to 3 = ?",
+    "answer": 51,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 27, x ≠ 0\nFind x² + 1/x²",
+    "answer": 727,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 28, ab = 132\nFind a² + b²",
+    "answer": 520,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 25, x ≠ 0\nFind x² + 1/x²",
+    "answer": 627,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(7x + 2) dx\nfrom 0 to 4 = ?",
+    "answer": 64,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(6x² + 2) dx\nfrom 0 to 3 = ?",
+    "answer": 60,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 28, x ≠ 0\nFind x² + 1/x²",
+    "answer": 782,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 29, ab = 154\nFind a² + b²",
+    "answer": 533,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 26, x ≠ 0\nFind x² + 1/x²",
+    "answer": 678,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(8x + 2) dx\nfrom 0 to 4 = ?",
+    "answer": 72,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(7x² + 2) dx\nfrom 0 to 3 = ?",
+    "answer": 69,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 29, x ≠ 0\nFind x² + 1/x²",
+    "answer": 839,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 30, ab = 176\nFind a² + b²",
+    "answer": 548,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 27, x ≠ 0\nFind x² + 1/x²",
+    "answer": 731,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(9x + 2) dx\nfrom 0 to 4 = ?",
+    "answer": 80,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(8x² + 2) dx\nfrom 0 to 3 = ?",
+    "answer": 78,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 30, x ≠ 0\nFind x² + 1/x²",
+    "answer": 898,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 31, ab = 198\nFind a² + b²",
+    "answer": 565,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 28, x ≠ 0\nFind x² + 1/x²",
+    "answer": 786,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(10x + 2) dx\nfrom 0 to 4 = ?",
+    "answer": 88,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(9x² + 2) dx\nfrom 0 to 3 = ?",
+    "answer": 87,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 31, x ≠ 0\nFind x² + 1/x²",
+    "answer": 959,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 32, ab = 220\nFind a² + b²",
+    "answer": 584,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 29, x ≠ 0\nFind x² + 1/x²",
+    "answer": 843,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(11x + 2) dx\nfrom 0 to 4 = ?",
+    "answer": 96,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(10x² + 2) dx\nfrom 0 to 3 = ?",
+    "answer": 96,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 32, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1022,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 33, ab = 242\nFind a² + b²",
+    "answer": 605,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 30, x ≠ 0\nFind x² + 1/x²",
+    "answer": 902,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(2x + 3) dx\nfrom 0 to 4 = ?",
+    "answer": 28,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(1x² + 3) dx\nfrom 0 to 3 = ?",
+    "answer": 18,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 33, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1087,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 25, ab = 46\nFind a² + b²",
+    "answer": 533,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 31, x ≠ 0\nFind x² + 1/x²",
+    "answer": 963,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(3x + 3) dx\nfrom 0 to 4 = ?",
+    "answer": 36,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(2x² + 3) dx\nfrom 0 to 3 = ?",
+    "answer": 27,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 34, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1154,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 26, ab = 69\nFind a² + b²",
+    "answer": 538,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 32, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1026,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(4x + 3) dx\nfrom 0 to 4 = ?",
+    "answer": 44,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(3x² + 3) dx\nfrom 0 to 3 = ?",
+    "answer": 36,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 35, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1223,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 27, ab = 92\nFind a² + b²",
+    "answer": 545,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 33, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1091,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(5x + 3) dx\nfrom 0 to 4 = ?",
+    "answer": 52,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(4x² + 3) dx\nfrom 0 to 3 = ?",
+    "answer": 45,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 36, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1294,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 28, ab = 115\nFind a² + b²",
+    "answer": 554,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 34, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1158,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(6x + 3) dx\nfrom 0 to 4 = ?",
+    "answer": 60,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(5x² + 3) dx\nfrom 0 to 3 = ?",
+    "answer": 54,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 37, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1367,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 29, ab = 138\nFind a² + b²",
+    "answer": 565,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 35, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1227,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(7x + 3) dx\nfrom 0 to 4 = ?",
+    "answer": 68,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(6x² + 3) dx\nfrom 0 to 3 = ?",
+    "answer": 63,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 38, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1442,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 30, ab = 161\nFind a² + b²",
+    "answer": 578,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 36, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1298,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(8x + 3) dx\nfrom 0 to 4 = ?",
+    "answer": 76,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(7x² + 3) dx\nfrom 0 to 3 = ?",
+    "answer": 72,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 39, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1519,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 31, ab = 184\nFind a² + b²",
+    "answer": 593,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 37, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1371,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(9x + 3) dx\nfrom 0 to 4 = ?",
+    "answer": 84,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(8x² + 3) dx\nfrom 0 to 3 = ?",
+    "answer": 81,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 40, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1598,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 32, ab = 207\nFind a² + b²",
+    "answer": 610,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 38, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1446,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(10x + 3) dx\nfrom 0 to 4 = ?",
+    "answer": 92,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(9x² + 3) dx\nfrom 0 to 3 = ?",
+    "answer": 90,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 41, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1679,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 33, ab = 230\nFind a² + b²",
+    "answer": 629,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 39, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1523,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(11x + 3) dx\nfrom 0 to 4 = ?",
+    "answer": 100,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(10x² + 3) dx\nfrom 0 to 3 = ?",
+    "answer": 99,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 42, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1762,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 34, ab = 253\nFind a² + b²",
+    "answer": 650,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 40, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1602,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(2x + 4) dx\nfrom 0 to 4 = ?",
+    "answer": 32,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(1x² + 4) dx\nfrom 0 to 3 = ?",
+    "answer": 21,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 43, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1847,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 26, ab = 48\nFind a² + b²",
+    "answer": 580,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 41, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1683,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(3x + 4) dx\nfrom 0 to 4 = ?",
+    "answer": 40,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(2x² + 4) dx\nfrom 0 to 3 = ?",
+    "answer": 30,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 44, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1934,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 27, ab = 72\nFind a² + b²",
+    "answer": 585,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 42, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1766,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(4x + 4) dx\nfrom 0 to 4 = ?",
+    "answer": 48,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(3x² + 4) dx\nfrom 0 to 3 = ?",
+    "answer": 39,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 45, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2023,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 28, ab = 96\nFind a² + b²",
+    "answer": 592,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 43, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1851,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(5x + 4) dx\nfrom 0 to 4 = ?",
+    "answer": 56,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(4x² + 4) dx\nfrom 0 to 3 = ?",
+    "answer": 48,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 46, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2114,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 29, ab = 120\nFind a² + b²",
+    "answer": 601,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 44, x ≠ 0\nFind x² + 1/x²",
+    "answer": 1938,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(6x + 4) dx\nfrom 0 to 4 = ?",
+    "answer": 64,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(5x² + 4) dx\nfrom 0 to 3 = ?",
+    "answer": 57,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 47, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2207,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 30, ab = 144\nFind a² + b²",
+    "answer": 612,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 45, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2027,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(7x + 4) dx\nfrom 0 to 4 = ?",
+    "answer": 72,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(6x² + 4) dx\nfrom 0 to 3 = ?",
+    "answer": 66,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 48, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2302,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 31, ab = 168\nFind a² + b²",
+    "answer": 625,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 46, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2118,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(8x + 4) dx\nfrom 0 to 4 = ?",
+    "answer": 80,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(7x² + 4) dx\nfrom 0 to 3 = ?",
+    "answer": 75,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 49, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2399,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 32, ab = 192\nFind a² + b²",
+    "answer": 640,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 47, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2211,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(9x + 4) dx\nfrom 0 to 4 = ?",
+    "answer": 88,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(8x² + 4) dx\nfrom 0 to 3 = ?",
+    "answer": 84,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 50, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2498,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 33, ab = 216\nFind a² + b²",
+    "answer": 657,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 48, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2306,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(10x + 4) dx\nfrom 0 to 4 = ?",
+    "answer": 96,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(9x² + 4) dx\nfrom 0 to 3 = ?",
+    "answer": 93,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 51, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2599,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 34, ab = 240\nFind a² + b²",
+    "answer": 676,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 49, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2403,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(11x + 4) dx\nfrom 0 to 4 = ?",
+    "answer": 104,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "∫(10x² + 4) dx\nfrom 0 to 3 = ?",
+    "answer": 102,
+    "level": 5,
+    "topic": "definite integrals",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x + 1/x = 52, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2702,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  },
+  {
+    "question": "a + b = 35, ab = 264\nFind a² + b²",
+    "answer": 697,
+    "level": 5,
+    "topic": "mathematical reasoning",
+    "difficulty": "hard"
+  },
+  {
+    "question": "x - 1/x = 50, x ≠ 0\nFind x² + 1/x²",
+    "answer": 2502,
+    "level": 5,
+    "topic": "advanced algebra",
+    "difficulty": "hard"
+  }
+]

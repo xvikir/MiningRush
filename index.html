@@ -1,0 +1,1788 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mining Rush — bi0s Blockchain</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani:wght@400;600;700&family=Orbitron:wght@700;900&display=swap');
+         :root {
+            --bg: #0a0a0f;
+            --bg2: #0f0f1a;
+            --panel: #16162a;
+            --border: #2a2a4a;
+            --accent: #f7931a;
+            --accent2: #00d4ff;
+            --green: #00ff88;
+            --red: #ff3366;
+            --text: #e8e8f0;
+            --muted: #6666aa;
+            --gold: #ffd700;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'Rajdhani', sans-serif;
+            min-height: 100vh;
+            overflow: hidden;
+        }
+        
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background-image: linear-gradient(rgba(247, 147, 26, 0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(247, 147, 26, 0.03) 1px, transparent 1px);
+            background-size: 40px 40px;
+            pointer-events: none;
+            z-index: 0;
+        }
+        
+        .screen {
+            position: fixed;
+            inset: 0;
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 1;
+            padding: 20px;
+            overflow-y: auto;
+        }
+        
+        .screen.active {
+            display: flex;
+        }
+        /* WELCOME */
+        
+        #welcome {
+            background: radial-gradient(ellipse at center, #1a0f00 0%, var(--bg) 70%);
+            justify-content: center;
+        }
+        
+        .welcome-inner {
+            width: 100%;
+            max-width: 560px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+        
+        .logo-area {
+            text-align: center;
+        }
+        
+        .bi0s-tag {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 12px;
+            color: var(--accent);
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            opacity: 0.8;
+        }
+        
+        .game-title {
+            font-family: 'Orbitron', monospace;
+            font-size: clamp(36px, 6vw, 64px);
+            font-weight: 900;
+            color: var(--accent);
+            text-shadow: 0 0 40px rgba(247, 147, 26, 0.5);
+            letter-spacing: 4px;
+            line-height: 1;
+        }
+        
+        .game-subtitle {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 12px;
+            color: var(--accent2);
+            letter-spacing: 6px;
+            margin-top: 8px;
+            opacity: 0.7;
+        }
+        
+        .desc-box {
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 18px 22px;
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .desc-box::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--accent2), transparent);
+        }
+        
+        .desc-title {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 10px;
+            color: var(--accent2);
+            letter-spacing: 3px;
+            margin-bottom: 10px;
+        }
+        
+        .desc-text {
+            font-size: 13px;
+            color: var(--muted);
+            line-height: 1.6;
+        }
+        
+        .desc-text b {
+            color: var(--accent);
+        }
+        
+        .desc-text span {
+            color: var(--text);
+        }
+        
+        .welcome-card {
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 28px;
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .welcome-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--accent), transparent);
+        }
+        
+        .welcome-card h2 {
+            font-family: 'Orbitron', monospace;
+            font-size: 13px;
+            color: var(--accent2);
+            margin-bottom: 18px;
+            letter-spacing: 2px;
+        }
+        
+        .how-to-play {
+            display: grid;
+            gap: 8px;
+            margin-bottom: 22px;
+        }
+        
+        .htp-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            font-size: 13px;
+            color: var(--muted);
+            line-height: 1.4;
+        }
+        
+        .htp-icon {
+            font-size: 16px;
+            flex-shrink: 0;
+        }
+        
+        .htp-item span {
+            color: var(--text);
+        }
+        
+        .htp-item b {
+            color: var(--accent);
+        }
+        
+        .inputs-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+        
+        .input-wrap label {
+            display: block;
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 10px;
+            color: var(--accent);
+            letter-spacing: 3px;
+            margin-bottom: 6px;
+        }
+        
+        .input-wrap input {
+            width: 100%;
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 12px 14px;
+            font-family: 'Rajdhani', sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--text);
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        
+        .input-wrap input:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px rgba(247, 147, 26, 0.1);
+        }
+        
+        .input-wrap input::placeholder {
+            color: var(--muted);
+            font-weight: 400;
+        }
+        
+        .btn-primary {
+            width: 100%;
+            background: var(--accent);
+            color: #000;
+            border: none;
+            border-radius: 8px;
+            padding: 14px;
+            font-family: 'Orbitron', monospace;
+            font-size: 15px;
+            font-weight: 700;
+            letter-spacing: 2px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .btn-primary:hover {
+            background: #ffaa33;
+            transform: translateY(-1px);
+            box-shadow: 0 8px 24px rgba(247, 147, 26, 0.3);
+        }
+        /* GAME */
+        
+        #game {
+            background: var(--bg);
+            padding: 14px;
+            justify-content: flex-start;
+        }
+        
+        .game-header {
+            width: 100%;
+            max-width: 900px;
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            align-items: center;
+            gap: 14px;
+            margin-bottom: 16px;
+        }
+        
+        .stat-box {
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 10px 14px;
+            text-align: center;
+        }
+        
+        .stat-label {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 10px;
+            color: var(--muted);
+            letter-spacing: 2px;
+            margin-bottom: 4px;
+        }
+        
+        .stat-value {
+            font-family: 'Orbitron', monospace;
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--accent);
+        }
+        
+        .timer-box {
+            background: var(--panel);
+            border: 2px solid var(--accent);
+            border-radius: 12px;
+            padding: 10px 24px;
+            text-align: center;
+            box-shadow: 0 0 20px rgba(247, 147, 26, 0.2);
+        }
+        
+        .timer-label {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 10px;
+            color: var(--accent);
+            letter-spacing: 3px;
+            margin-bottom: 2px;
+        }
+        
+        .timer-value {
+            font-family: 'Orbitron', monospace;
+            font-size: 38px;
+            font-weight: 900;
+            color: var(--accent);
+            text-shadow: 0 0 20px rgba(247, 147, 26, 0.5);
+            line-height: 1;
+        }
+        
+        .timer-value.danger {
+            color: var(--red);
+            text-shadow: 0 0 20px rgba(255, 51, 102, 0.5);
+        }
+        
+        .timer-box.danger {
+            border-color: var(--red);
+            box-shadow: 0 0 20px rgba(255, 51, 102, 0.2);
+        }
+        
+        .block-container {
+            width: 100%;
+            max-width: 900px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 14px;
+            flex: 1;
+        }
+        
+        .block-card {
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            padding: 18px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .block-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--accent2), transparent);
+        }
+        
+        .block-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 14px;
+        }
+        
+        .block-title {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 11px;
+            color: var(--accent2);
+            letter-spacing: 3px;
+        }
+        
+        .level-badge {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 10px;
+            background: rgba(0, 212, 255, 0.1);
+            border: 1px solid rgba(0, 212, 255, 0.3);
+            color: var(--accent2);
+            padding: 3px 8px;
+            border-radius: 4px;
+        }
+        
+        .tx-list {
+            display: flex;
+            flex-direction: column;
+            gap: 7px;
+            margin-bottom: 14px;
+        }
+        
+        .tx-item {
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 7px 10px;
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 11px;
+            color: var(--muted);
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .tx-item .tx-amount {
+            color: var(--green);
+        }
+        
+        .prev-hash {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 10px;
+            color: var(--muted);
+            background: var(--bg2);
+            padding: 6px 10px;
+            border-radius: 4px;
+            word-break: break-all;
+            line-height: 1.4;
+        }
+        
+        .puzzle-card {
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            padding: 18px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .puzzle-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--accent), transparent);
+        }
+        
+        .puzzle-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 12px;
+        }
+        
+        .puzzle-title {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 11px;
+            color: var(--accent);
+            letter-spacing: 3px;
+        }
+        
+        .puzzle-explanation {
+            font-size: 12px;
+            color: var(--muted);
+            margin-bottom: 14px;
+            line-height: 1.4;
+        }
+        
+        .puzzle-question {
+            background: var(--bg2);
+            border: 1px solid rgba(247, 147, 26, 0.2);
+            border-radius: 10px;
+            padding: 18px;
+            text-align: center;
+            margin-bottom: 16px;
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .puzzle-question p {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: clamp(15px, 2.2vw, 20px);
+            color: var(--text);
+            line-height: 1.6;
+            white-space: pre-line;
+        }
+        
+        .answer-row {
+            display: flex;
+            gap: 10px;
+            align-items: flex-end;
+        }
+        
+        .answer-wrap {
+            flex: 1;
+        }
+        
+        .answer-wrap label {
+            display: block;
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 10px;
+            color: var(--accent);
+            letter-spacing: 2px;
+            margin-bottom: 6px;
+        }
+        
+        .answer-input {
+            width: 100%;
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 11px 14px;
+            font-family: 'Orbitron', monospace;
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--text);
+            outline: none;
+            transition: all 0.2s;
+        }
+        
+        .answer-input:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px rgba(247, 147, 26, 0.1);
+        }
+        
+        .answer-input.wrong {
+            border-color: var(--red);
+            box-shadow: 0 0 0 3px rgba(255, 51, 102, 0.2);
+            animation: shake 0.3s ease;
+        }
+        
+        .answer-input.correct {
+            border-color: var(--green);
+            box-shadow: 0 0 0 3px rgba(0, 255, 136, 0.2);
+        }
+        
+        @keyframes shake {
+            0%,
+            100% {
+                transform: translateX(0)
+            }
+            25% {
+                transform: translateX(-6px)
+            }
+            75% {
+                transform: translateX(6px)
+            }
+        }
+        
+        .btn-mine {
+            background: var(--accent);
+            color: #000;
+            border: none;
+            border-radius: 8px;
+            padding: 11px 18px;
+            font-family: 'Orbitron', monospace;
+            font-size: 13px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+        
+        .btn-mine:hover {
+            background: #ffaa33;
+            transform: translateY(-1px);
+        }
+        
+        .penalty-flash {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(255, 51, 102, 0.9);
+            color: white;
+            font-family: 'Orbitron', monospace;
+            font-size: 26px;
+            font-weight: 900;
+            padding: 14px 28px;
+            border-radius: 12px;
+            pointer-events: none;
+            opacity: 0;
+            z-index: 100;
+        }
+        
+        .penalty-flash.show {
+            animation: fadeOut 0.8s ease forwards;
+        }
+        
+        @keyframes fadeOut {
+            0% {
+                opacity: 1;
+                transform: translate(-50%, -50%) scale(1.1)
+            }
+            100% {
+                opacity: 0;
+                transform: translate(-50%, -60%) scale(0.9)
+            }
+        }
+        
+        .mined-flash {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0, 255, 136, 0.9);
+            color: #000;
+            font-family: 'Orbitron', monospace;
+            font-size: 22px;
+            font-weight: 900;
+            padding: 14px 28px;
+            border-radius: 12px;
+            pointer-events: none;
+            opacity: 0;
+            z-index: 100;
+        }
+        
+        .mined-flash.show {
+            animation: minedAnim 0.6s ease forwards;
+        }
+        
+        @keyframes minedAnim {
+            0% {
+                opacity: 0;
+                transform: translate(-50%, -50%) scale(0.8)
+            }
+            40% {
+                opacity: 1;
+                transform: translate(-50%, -50%) scale(1.1)
+            }
+            100% {
+                opacity: 0;
+                transform: translate(-50%, -60%) scale(1)
+            }
+        }
+        
+        .chain-progress {
+            width: 100%;
+            max-width: 900px;
+            margin-top: 12px;
+            display: flex;
+            align-items: center;
+            gap: 3px;
+        }
+        
+        .chain-block {
+            flex: 1;
+            height: 7px;
+            background: var(--border);
+            border-radius: 2px;
+            transition: background 0.3s;
+        }
+        
+        .chain-block.mined {
+            background: var(--accent);
+        }
+        
+        .chain-block.current {
+            background: var(--accent2);
+            animation: pulse 1s infinite;
+        }
+        
+        .chain-connector {
+            width: 3px;
+            height: 3px;
+            background: var(--border);
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+        
+        @keyframes pulse {
+            0%,
+            100% {
+                opacity: 1
+            }
+            50% {
+                opacity: 0.4
+            }
+        }
+        /* RESULT */
+        
+        #result {
+            background: radial-gradient(ellipse at center, #001a0f 0%, var(--bg) 70%);
+        }
+        
+        .result-card {
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 40px 36px;
+            width: 100%;
+            max-width: 500px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .result-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent), var(--accent2), var(--green));
+        }
+        
+        .result-emoji {
+            font-size: 56px;
+            margin-bottom: 14px;
+        }
+        
+        .result-name {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 12px;
+            color: var(--muted);
+            letter-spacing: 3px;
+            margin-bottom: 4px;
+        }
+        
+        .result-class {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 11px;
+            color: var(--accent2);
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+        }
+        
+        .result-score {
+            font-family: 'Orbitron', monospace;
+            font-size: 68px;
+            font-weight: 900;
+            color: var(--green);
+            text-shadow: 0 0 40px rgba(0, 255, 136, 0.4);
+            line-height: 1;
+            margin-bottom: 4px;
+        }
+        
+        .result-score-label {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 11px;
+            color: var(--muted);
+            letter-spacing: 3px;
+            margin-bottom: 28px;
+        }
+        
+        .result-stats {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 10px;
+            margin-bottom: 28px;
+        }
+        
+        .result-stat {
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 12px 8px;
+        }
+        
+        .result-stat .val {
+            font-family: 'Orbitron', monospace;
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--accent);
+            margin-bottom: 4px;
+        }
+        
+        .result-stat .lbl {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 9px;
+            color: var(--muted);
+            letter-spacing: 2px;
+        }
+        
+        .btn-leaderboard {
+            width: 100%;
+            background: transparent;
+            border: 2px solid var(--accent);
+            color: var(--accent);
+            border-radius: 8px;
+            padding: 13px;
+            font-family: 'Orbitron', monospace;
+            font-size: 13px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s;
+            letter-spacing: 2px;
+            margin-bottom: 10px;
+        }
+        
+        .btn-leaderboard:hover {
+            background: var(--accent);
+            color: #000;
+        }
+        
+        .btn-play-again {
+            width: 100%;
+            background: var(--green);
+            color: #000;
+            border: none;
+            border-radius: 8px;
+            padding: 13px;
+            font-family: 'Orbitron', monospace;
+            font-size: 13px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s;
+            letter-spacing: 2px;
+        }
+        
+        .btn-play-again:hover {
+            background: #33ffaa;
+        }
+        /* LEADERBOARD */
+        
+        #leaderboard {
+            background: var(--bg);
+            padding: 20px;
+            justify-content: flex-start;
+            overflow-y: auto;
+        }
+        
+        .lb-header {
+            width: 100%;
+            max-width: 1100px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .lb-title {
+            font-family: 'Orbitron', monospace;
+            font-size: 26px;
+            font-weight: 900;
+            color: var(--accent);
+            letter-spacing: 3px;
+        }
+        
+        .lb-actions {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .lb-grid {
+            width: 100%;
+            max-width: 1100px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 18px;
+        }
+        
+        .lb-panel {
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 22px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .lb-panel::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+        }
+        
+        .lb-panel:first-child::before {
+            background: linear-gradient(90deg, transparent, var(--gold), transparent);
+        }
+        
+        .lb-panel:last-child::before {
+            background: linear-gradient(90deg, transparent, var(--accent2), transparent);
+        }
+        
+        .lb-panel-title {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 11px;
+            color: var(--muted);
+            letter-spacing: 3px;
+            margin-bottom: 14px;
+        }
+        
+        .lb-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        .lb-table th {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 10px;
+            color: var(--muted);
+            letter-spacing: 2px;
+            text-align: left;
+            padding: 0 0 10px 0;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .lb-table td {
+            padding: 9px 0;
+            border-bottom: 1px solid rgba(42, 42, 74, 0.5);
+            font-size: 14px;
+            font-weight: 600;
+        }
+        
+        .lb-table tr:last-child td {
+            border-bottom: none;
+        }
+        
+        .rank-badge {
+            font-family: 'Orbitron', monospace;
+            font-size: 12px;
+            font-weight: 700;
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            background: var(--border);
+            color: var(--muted);
+        }
+        
+        .rank-badge.gold {
+            background: var(--gold);
+            color: #000;
+        }
+        
+        .rank-badge.silver {
+            background: #c0c0c0;
+            color: #000;
+        }
+        
+        .rank-badge.bronze {
+            background: #cd7f32;
+            color: #000;
+        }
+        
+        .player-name {
+            color: var(--text);
+            font-weight: 700;
+        }
+        
+        .player-class {
+            color: var(--accent2);
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 12px;
+        }
+        
+        .blocks-count {
+            color: var(--accent);
+            font-family: 'Orbitron', monospace;
+            font-size: 17px;
+        }
+        
+        .time-col {
+            color: var(--muted);
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 12px;
+        }
+        
+        .chart-bars {
+            display: flex;
+            align-items: flex-end;
+            gap: 3px;
+            height: 155px;
+            padding: 0 4px;
+            margin-bottom: 8px;
+        }
+        
+        .chart-bar-wrap {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 3px;
+            height: 100%;
+            justify-content: flex-end;
+        }
+        
+        .chart-bar {
+            width: 100%;
+            background: var(--accent);
+            border-radius: 3px 3px 0 0;
+            transition: height 0.5s ease;
+            min-height: 2px;
+        }
+        
+        .chart-bar:hover {
+            background: var(--accent2);
+        }
+        
+        .chart-bar-count {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 9px;
+            color: var(--muted);
+            text-align: center;
+        }
+        
+        .chart-labels {
+            display: flex;
+            gap: 3px;
+            padding: 0 4px;
+        }
+        
+        .chart-label {
+            flex: 1;
+            text-align: center;
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 9px;
+            color: var(--muted);
+        }
+        
+        .loading-text {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 12px;
+            color: var(--muted);
+            text-align: center;
+            padding: 20px;
+            letter-spacing: 2px;
+        }
+        
+        .btn-back {
+            background: transparent;
+            border: 1px solid var(--border);
+            color: var(--muted);
+            border-radius: 8px;
+            padding: 9px 18px;
+            font-family: 'Rajdhani', sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .btn-back:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+        
+        .btn-reset {
+            background: transparent;
+            border: 1px solid var(--red);
+            color: var(--red);
+            border-radius: 8px;
+            padding: 9px 18px;
+            font-family: 'Rajdhani', sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .btn-reset:hover {
+            background: var(--red);
+            color: #fff;
+        }
+        
+        .empty-lb {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 12px;
+            color: var(--muted);
+            text-align: center;
+            padding: 40px 20px;
+            letter-spacing: 2px;
+        }
+        
+        .new-entry td {
+            background: rgba(247, 147, 26, 0.05);
+        }
+        /* Modal */
+        
+        .modal-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 200;
+            display: none;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .modal-overlay.show {
+            display: flex;
+        }
+        
+        .modal {
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 32px;
+            width: 100%;
+            max-width: 360px;
+            text-align: center;
+            position: relative;
+        }
+        
+        .modal::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--red), transparent);
+        }
+        
+        .modal h3 {
+            font-family: 'Orbitron', monospace;
+            font-size: 16px;
+            color: var(--red);
+            margin-bottom: 8px;
+            letter-spacing: 2px;
+        }
+        
+        .modal p {
+            font-size: 13px;
+            color: var(--muted);
+            margin-bottom: 18px;
+            line-height: 1.5;
+        }
+        
+        .modal input {
+            width: 100%;
+            background: var(--bg2);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 12px 14px;
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 16px;
+            color: var(--text);
+            outline: none;
+            margin-bottom: 14px;
+            text-align: center;
+            letter-spacing: 4px;
+        }
+        
+        .modal input:focus {
+            border-color: var(--red);
+        }
+        
+        .modal-btns {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .btn-confirm {
+            flex: 1;
+            background: var(--red);
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            padding: 11px;
+            font-family: 'Orbitron', monospace;
+            font-size: 13px;
+            font-weight: 700;
+            cursor: pointer;
+        }
+        
+        .btn-cancel {
+            flex: 1;
+            background: transparent;
+            border: 1px solid var(--border);
+            color: var(--muted);
+            border-radius: 8px;
+            padding: 11px;
+            font-family: 'Rajdhani', sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        
+        .modal-error {
+            font-family: 'Share Tech Mono', monospace;
+            font-size: 11px;
+            color: var(--red);
+            margin-top: 8px;
+            letter-spacing: 1px;
+            display: none;
+        }
+        
+        .btn-leaderboard-home {
+            width: 100%;
+            background: transparent;
+            border: 2px solid var(--accent);
+            color: var(--accent);
+            border-radius: 8px;
+            padding: 14px;
+            font-family: 'Orbitron', monospace;
+            font-size: 15px;
+            font-weight: 700;
+            letter-spacing: 2px;
+            cursor: pointer;
+            transition: all 0.2s;
+            margin-top: 10px;
+        }
+        
+        .btn-leaderboard-home:hover {
+            background: var(--accent);
+            color: #000;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- WELCOME -->
+    <div id="welcome" class="screen active">
+        <div class="welcome-inner">
+            <div class="logo-area">
+                <div class="bi0s-tag">⛏ bi0s blockchain department</div>
+                <div class="game-title">MINING RUSH</div>
+                <div class="game-subtitle">PROOF OF WORK SIMULATOR</div>
+            </div>
+
+            <div class="desc-box">
+                <div class="desc-title">🔗 WHAT ARE YOU ACTUALLY DOING?</div>
+                <p class="desc-text">
+                    In Bitcoin, miners compete to add new blocks to the blockchain by finding a special number called a <b>nonce</b>. This nonce, when combined with the block's data and hashed, produces a valid result — but there's <span>no shortcut to find it</span>.
+                    Miners try <b>billions of values</b> until they get lucky. In this game, <b>your math answer IS the nonce</b> — solve the puzzle, find the nonce, mine the block, and secure the chain! ⛓️
+                </p>
+            </div>
+
+            <div class="welcome-card">
+                <h2>HOW TO PLAY</h2>
+                <div class="how-to-play">
+                    <div class="htp-item"><span class="htp-icon">⏱️</span><span>You have <b>2 minutes</b> to mine as many blocks as possible</span></div>
+                    <div class="htp-item"><span class="htp-icon">🧮</span><span>Solve the <b>math puzzle</b> to find the nonce and mine the block</span></div>
+                    <div class="htp-item"><span class="htp-icon">📈</span><span>Puzzles get <b>harder</b> as you progress through 5 levels</span></div>
+                    <div class="htp-item"><span class="htp-icon">❌</span><span>Wrong answer = <b>-5 seconds</b> penalty!</span></div>
+                    <div class="htp-item"><span class="htp-icon">🏆</span><span>Most blocks mined wins. Tiebreaker = fewest wrong attempts!</span></div>
+                </div>
+                <div class="inputs-row">
+                    <div class="input-wrap">
+                        <label>YOUR NAME</label>
+                        <input type="text" id="playerName" placeholder="e.g. Akshay" maxlength="20" autocomplete="off" />
+                    </div>
+                    <div class="input-wrap">
+                        <label>YOUR CLASS</label>
+                        <input type="text" id="playerClass" placeholder="e.g. S3 CSE" maxlength="15" autocomplete="off" />
+                    </div>
+                </div>
+                <button class="btn-primary" onclick="startGame()">⛏ START MINING</button>
+                <button class="btn-leaderboard-home" onclick="viewLeaderboard()">🏆 VIEW LEADERBOARD</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- GAME -->
+    <div id="game" class="screen">
+        <div class="game-header">
+            <div class="stat-box">
+                <div class="stat-label">BLOCKS MINED</div>
+                <div class="stat-value" id="blocksMined">0 / 15</div>
+            </div>
+            <div class="timer-box" id="timerBox">
+                <div class="timer-label">TIME LEFT</div>
+                <div class="timer-value" id="timerDisplay">2:00</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-label">WRONG ATTEMPTS</div>
+                <div class="stat-value" id="wrongDisplay" style="color:var(--red)">0</div>
+            </div>
+        </div>
+        <div class="block-container">
+            <div class="block-card">
+                <div class="block-header">
+                    <div class="block-title">BLOCK #<span id="blockNum">1</span></div>
+                    <div class="level-badge" id="levelBadge">LEVEL 1 ⭐</div>
+                </div>
+                <div class="tx-list" id="txList"></div>
+                <div class="stat-label" style="margin-bottom:6px">PREV HASH</div>
+                <div class="prev-hash" id="prevHash">0000000000000000000000000000000000000000</div>
+            </div>
+            <div class="puzzle-card">
+                <div class="puzzle-header">
+                    <div class="puzzle-title">🔐 FIND THE NONCE</div>
+                    <div class="wrong-count" id="wrongCount"></div>
+                </div>
+                <p class="puzzle-explanation">Your answer to this puzzle is the nonce — the magic number that makes this block valid on the Bitcoin blockchain.</p>
+                <div class="puzzle-question">
+                    <p id="puzzleQuestion">Loading...</p>
+                </div>
+                <div class="answer-row">
+                    <div class="answer-wrap">
+                        <label>NONCE (YOUR ANSWER)</label>
+                        <input type="number" class="answer-input" id="answerInput" placeholder="?" autocomplete="off" />
+                    </div>
+                    <button class="btn-mine" onclick="submitAnswer()">⛏ MINE</button>
+                </div>
+            </div>
+        </div>
+        <div class="chain-progress" id="chainProgress"></div>
+    </div>
+
+    <!-- RESULT -->
+    <div id="result" class="screen">
+        <div class="result-card">
+            <div class="result-emoji" id="resultEmoji">⛏️</div>
+            <div class="result-name" id="resultName"></div>
+            <div class="result-class" id="resultClass"></div>
+            <div class="result-score" id="resultScore">0</div>
+            <div class="result-score-label">BLOCKS MINED</div>
+            <div class="result-stats">
+                <div class="result-stat">
+                    <div class="val" id="resultTime">0s</div>
+                    <div class="lbl">TIME TAKEN</div>
+                </div>
+                <div class="result-stat">
+                    <div class="val" id="resultWrong">0</div>
+                    <div class="lbl">WRONG ATTEMPTS</div>
+                </div>
+                <div class="result-stat">
+                    <div class="val" id="resultLevel">1</div>
+                    <div class="lbl">MAX LEVEL</div>
+                </div>
+            </div>
+            <button class="btn-leaderboard" onclick="showLeaderboard()">🏆 VIEW LEADERBOARD</button>
+            <button class="btn-play-again" onclick="goToWelcome()">⚡ PLAY AGAIN</button>
+        </div>
+    </div>
+
+    <!-- LEADERBOARD -->
+    <div id="leaderboard" class="screen">
+        <div class="lb-header">
+            <div class="lb-title">🏆 LEADERBOARD</div>
+            <div class="lb-actions">
+                <button class="btn-reset" onclick="showResetModal()">🗑 RESET</button>
+                <button class="btn-back" onclick="goToWelcome()">← PLAY AGAIN</button>
+            </div>
+        </div>
+        <div class="lb-grid">
+            <div class="lb-panel">
+                <div class="lb-panel-title">TOP MINERS</div>
+                <div id="lbContent">
+                    <div class="loading-text">LOADING...</div>
+                </div>
+            </div>
+            <div class="lb-panel">
+                <div class="lb-panel-title">DISTRIBUTION — BLOCKS MINED</div>
+                <div class="chart-bars" id="chartBars"></div>
+                <div class="chart-labels" id="chartLabels"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Reset Modal -->
+    <div class="modal-overlay" id="resetModal">
+        <div class="modal">
+            <h3>🔐 ADMIN RESET</h3>
+            <p>Enter the admin password to clear all leaderboard data. This cannot be undone!</p>
+            <input type="password" id="resetPassword" placeholder="••••••••••" autocomplete="off" />
+            <div class="modal-error" id="modalError">❌ Wrong password!</div>
+            <div class="modal-btns">
+                <button class="btn-cancel" onclick="hideResetModal()">CANCEL</button>
+                <button class="btn-confirm" onclick="confirmReset()">RESET</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="penalty-flash" id="penaltyFlash">-5 SEC ⚠️</div>
+    <div class="mined-flash" id="minedFlash">✅ BLOCK MINED!</div>
+
+    <script>
+        const API_BASE_URL = 'http://localhost:5000/api';
+
+        // Questions are loaded from the MongoDB-backed API.
+
+
+        const TRANSACTIONS = [
+            ["Alice → Bob", "0.42 BTC"],
+            ["Charlie → Dave", "1.15 BTC"],
+            ["Eve → Frank", "0.08 BTC"],
+            ["Grace → Henry", "2.00 BTC"],
+            ["Ivy → Jack", "0.77 BTC"],
+            ["Kate → Liam", "0.33 BTC"],
+            ["Mia → Noah", "1.50 BTC"],
+            ["Olivia → Paul", "0.91 BTC"],
+            ["Quinn → Rose", "0.25 BTC"],
+            ["Sam → Tina", "3.14 BTC"],
+            ["Uma → Victor", "0.60 BTC"],
+            ["Wendy → Xander", "1.80 BTC"]
+        ];
+
+        let playerName = "",
+            playerClass = "",
+            currentBlock = 0,
+            wrongAttempts = 0,
+            timeLeft = 120,
+            timer = null;
+        let gameStartTime = 0,
+            usedQ = {
+                1: [],
+                2: [],
+                3: [],
+                4: [],
+                5: []
+            },
+            currentQ = null,
+            hashes = [],
+            gameSession = 0,
+            gameEnded = false,
+            answerRequestInFlight = false;
+
+        function getLevel(b) {
+            return b <= 3 ? 1 : b <= 6 ? 2 : b <= 9 ? 3 : b <= 12 ? 4 : 5;
+        }
+
+        function getLevelLabel(l) {
+            return `LEVEL ${l} ${"⭐".repeat(l)}`;
+        }
+
+        async function getRandQ(lvl) {
+            const params = new URLSearchParams({ level: lvl, exclude: usedQ[lvl].join(',') });
+            const response = await fetch(`${API_BASE_URL}/questions/random?${params}`);
+            const payload = await response.json().catch(() => ({}));
+            if (!response.ok || !payload.data) {
+                throw new Error(payload.message || 'Unable to load a question.');
+            }
+            usedQ[lvl].push(payload.data.id);
+            return payload.data;
+        }
+
+        function genHash() {
+            const c = '0123456789abcdef';
+            return Array.from({
+                length: 40
+            }, () => c[Math.floor(Math.random() * 16)]).join('');
+        }
+
+        function showScreen(id) {
+            document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+            document.getElementById(id).classList.add('active');
+        }
+
+        function startGame() {
+            const n = document.getElementById('playerName').value.trim();
+            const cl = document.getElementById('playerClass').value.trim();
+            if (!n) {
+                document.getElementById('playerName').focus();
+                return;
+            }
+            if (!cl) {
+                document.getElementById('playerClass').focus();
+                return;
+            }
+            playerName = n;
+            playerClass = cl;
+            gameSession++;
+            gameEnded = false;
+            answerRequestInFlight = false;
+            currentBlock = 0;
+            wrongAttempts = 0;
+            timeLeft = 120;
+            usedQ = {
+                1: [],
+                2: [],
+                3: [],
+                4: [],
+                5: []
+            };
+            hashes = ["0000000000000000000000000000000000000000"];
+            gameStartTime = Date.now();
+            showScreen('game');
+            buildChain();
+            loadBlock(gameSession);
+            startTimer();
+        }
+
+        function startTimer() {
+            if (timer) clearInterval(timer);
+            timer = setInterval(() => {
+                timeLeft--;
+                updateTimer();
+                if (timeLeft <= 0) endGame();
+            }, 1000);
+        }
+
+        function updateTimer() {
+            const m = Math.floor(timeLeft / 60),
+                s = timeLeft % 60;
+            document.getElementById('timerDisplay').textContent = `${m}:${s.toString().padStart(2,'0')}`;
+            const d = timeLeft <= 20;
+            document.getElementById('timerDisplay').classList.toggle('danger', d);
+            document.getElementById('timerBox').classList.toggle('danger', d);
+        }
+
+        async function loadBlock(session = gameSession) {
+            if (gameEnded || session !== gameSession) return;
+            if (currentBlock >= 15) {
+                endGame();
+                return;
+            }
+            const bn = currentBlock + 1,
+                lvl = getLevel(bn);
+            document.getElementById('blockNum').textContent = bn;
+            document.getElementById('levelBadge').textContent = getLevelLabel(lvl);
+            document.getElementById('blocksMined').textContent = `${currentBlock} / 15`;
+            document.getElementById('wrongDisplay').textContent = wrongAttempts;
+            document.getElementById('prevHash').textContent = hashes[hashes.length - 1];
+            const txs = [...TRANSACTIONS].sort(() => Math.random() - 0.5).slice(0, 3);
+            document.getElementById('txList').innerHTML = txs.map(([f, a]) => `<div class="tx-item"><span>${f}</span><span class="tx-amount">${a}</span></div>`).join('');
+            currentQ = null;
+            document.getElementById('puzzleQuestion').textContent = 'Loading...';
+            try {
+                const question = await getRandQ(lvl);
+                if (gameEnded || session !== gameSession) return;
+                currentQ = question;
+                document.getElementById('puzzleQuestion').textContent = currentQ.question;
+                document.getElementById('wrongCount').textContent = '';
+            } catch (error) {
+                if (gameEnded || session !== gameSession) return;
+                document.getElementById('puzzleQuestion').textContent = 'Unable to load a puzzle. Please check the connection and try again.';
+                document.getElementById('wrongCount').textContent = 'CONNECTION ERROR';
+            }
+            const inp = document.getElementById('answerInput');
+            inp.value = '';
+            inp.className = 'answer-input';
+            inp.focus();
+            updateChain();
+        }
+
+        async function submitAnswer() {
+            const inp = document.getElementById('answerInput');
+            const val = parseFloat(inp.value);
+            if (inp.value === '' || isNaN(val) || !currentQ || gameEnded || answerRequestInFlight) return;
+            let correct;
+            answerRequestInFlight = true;
+            try {
+                const response = await fetch(`${API_BASE_URL}/questions/check`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ questionId: currentQ.id, answer: val })
+                });
+                const payload = await response.json().catch(() => ({}));
+                if (!response.ok || typeof payload.correct !== 'boolean') {
+                    throw new Error(payload.message || 'Unable to check the answer.');
+                }
+                correct = payload.correct;
+            } catch (error) {
+                document.getElementById('wrongCount').textContent = 'CONNECTION ERROR — TRY AGAIN';
+                return;
+            }
+            answerRequestInFlight = false;
+            if (gameEnded) return;
+            if (correct) {
+                currentQ = null;
+                inp.className = 'answer-input correct';
+                hashes.push(genHash());
+                currentBlock++;
+                showFlash('minedFlash');
+                updateChain();
+                setTimeout(() => {
+                    if (currentBlock >= 15) {
+                        endGame();
+                        return;
+                    }
+                    loadBlock();
+                }, 400);
+            } else {
+                inp.className = 'answer-input wrong';
+                wrongAttempts++;
+                timeLeft = Math.max(0, timeLeft - 5);
+                document.getElementById('wrongDisplay').textContent = wrongAttempts;
+                updateTimer();
+                showFlash('penaltyFlash');
+                setTimeout(() => {
+                    inp.className = 'answer-input';
+                    inp.value = '';
+                    inp.focus();
+                }, 600);
+            }
+        }
+
+        function showFlash(id) {
+            const el = document.getElementById(id);
+            el.className = el.className.replace(' show', '');
+            void el.offsetWidth;
+            el.className += ' show';
+        }
+
+        function buildChain() {
+            const c = document.getElementById('chainProgress');
+            c.innerHTML = '';
+            for (let i = 0; i < 15; i++) {
+                if (i > 0) {
+                    const conn = document.createElement('div');
+                    conn.className = 'chain-connector';
+                    c.appendChild(conn);
+                }
+                const b = document.createElement('div');
+                b.className = 'chain-block';
+                b.id = `cb-${i}`;
+                c.appendChild(b);
+            }
+        }
+
+        function updateChain() {
+            for (let i = 0; i < 15; i++) {
+                const el = document.getElementById(`cb-${i}`);
+                if (!el) continue;
+                el.className = i < currentBlock ? 'chain-block mined' : i === currentBlock ? 'chain-block current' : 'chain-block';
+            }
+        }
+
+        async function viewLeaderboard() {
+            showScreen('leaderboard');
+            document.getElementById('lbContent').innerHTML = '<div class="loading-text">LOADING...</div>';
+            try {
+                const [scores, stats] = await Promise.all([loadScores(), loadStats()]);
+                renderLB(scores);
+                renderChart(stats.blockDistribution);
+            } catch (error) {
+                document.getElementById('lbContent').innerHTML = '<div class="empty-lb">LEADERBOARD UNAVAILABLE — PLEASE CHECK THE CONNECTION.</div>';
+                renderChart({});
+            }
+        }
+
+        function endGame() {
+            clearInterval(timer);
+            const timeTaken = Math.round((Date.now() - gameStartTime) / 1000);
+            const lvl = currentBlock === 0 ? 1 : getLevel(Math.min(currentBlock, 15));
+            document.getElementById('resultEmoji').textContent = currentBlock >= 12 ? "👑" : currentBlock >= 8 ? "💎" : currentBlock >= 4 ? "🔥" : "⛏️";
+            document.getElementById('resultName').textContent = playerName.toUpperCase();
+            document.getElementById('resultClass').textContent = playerClass.toUpperCase();
+            document.getElementById('resultScore').textContent = currentBlock;
+            document.getElementById('resultTime').textContent = `${timeTaken}s`;
+            document.getElementById('resultWrong').textContent = wrongAttempts;
+            document.getElementById('resultLevel').textContent = lvl;
+            saveScore(timeTaken);
+            showScreen('result');
+        }
+
+        async function loadScores() {
+            const response = await fetch(`${API_BASE_URL}/leaderboard`);
+            const payload = await response.json().catch(() => ({}));
+            if (!response.ok || !Array.isArray(payload.data)) {
+                throw new Error(payload.message || 'Unable to load the leaderboard.');
+            }
+            return payload.data.map(score => ({
+                name: score.playerName,
+                cls: score.playerClass,
+                blocks: score.blocksMined,
+                wrongAttempts: score.wrongAttempts,
+                lastBlockTime: score.timeTaken * 1000
+            }));
+        }
+
+        async function loadStats() {
+            const response = await fetch(`${API_BASE_URL}/stats`);
+            const payload = await response.json().catch(() => ({}));
+            if (!response.ok || !payload.data) {
+                throw new Error(payload.message || 'Unable to load leaderboard statistics.');
+            }
+            return payload.data;
+        }
+
+        async function saveScore(timeTaken) {
+            try {
+                const response = await fetch(`${API_BASE_URL}/scores`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        playerName,
+                        playerClass,
+                        blocksMined: currentBlock,
+                        wrongAttempts,
+                        timeTaken,
+                        maxLevel: currentBlock === 0 ? 1 : getLevel(Math.min(currentBlock, 15))
+                    })
+                });
+                if (!response.ok) throw new Error('Score submission failed.');
+            } catch (error) {
+                document.getElementById('resultClass').textContent = `${playerClass.toUpperCase()} — SCORE NOT SAVED`;
+            }
+        }
+
+        async function showLeaderboard() {
+            showScreen('leaderboard');
+            document.getElementById('lbContent').innerHTML = '<div class="loading-text">LOADING...</div>';
+            try {
+                const [scores, stats] = await Promise.all([loadScores(), loadStats()]);
+                renderLB(scores);
+                renderChart(stats.blockDistribution);
+            } catch (error) {
+                document.getElementById('lbContent').innerHTML = '<div class="empty-lb">LEADERBOARD UNAVAILABLE — PLEASE CHECK THE CONNECTION.</div>';
+                renderChart({});
+            }
+        }
+
+        function renderLB(scores) {
+            if (!scores.length) {
+                document.getElementById('lbContent').innerHTML = '<div class="empty-lb">NO MINERS YET — BE THE FIRST!</div>';
+                return;
+            }
+            const rc = i => i === 0 ? 'gold' : i === 1 ? 'silver' : i === 2 ? 'bronze' : '';
+            document.getElementById('lbContent').innerHTML = `
+    <table class="lb-table">
+      <thead><tr><th>#</th><th>MINER</th><th>CLASS</th><th>BLOCKS</th><th>WRONG</th><th>LAST BLOCK</th></tr></thead>
+      <tbody>${scores.slice(0,15).map((s,i)=>`
+        <tr class="${s.name===playerName&&s.cls===playerClass?'new-entry':''}">
+          <td><span class="rank-badge ${rc(i)}">${i+1}</span></td>
+          <td class="player-name">${s.name}</td>
+          <td class="player-class">${s.cls}</td>
+          <td class="blocks-count">${s.blocks}</td>
+          <td class="time-col">${s.wrongAttempts}</td>
+          <td class="time-col">${s.lastBlockTime ? (s.lastBlockTime/1000).toFixed(2)+'s' : 'N/A'}</td>
+        </tr>`).join('')}
+      </tbody>
+    </table>`;
+}
+
+function renderChart(distribution){
+  const dist=Array(16).fill(0);
+  Object.entries(distribution || {}).forEach(([blocks,count])=>{if(blocks>=0&&blocks<=15)dist[blocks]=count;});
+  const maxVal=Math.max(...dist,1);
+  const barsEl=document.getElementById('chartBars');
+  const labelsEl=document.getElementById('chartLabels');
+  barsEl.innerHTML=''; labelsEl.innerHTML='';
+  for(let i=0;i<=15;i++){
+    const wrap=document.createElement('div');wrap.className='chart-bar-wrap';
+    const cnt=document.createElement('div');cnt.className='chart-bar-count';cnt.textContent=dist[i]>0?dist[i]:'';
+    const bar=document.createElement('div');bar.className='chart-bar';
+    bar.style.height=(dist[i]===0?2:Math.max(4,(dist[i]/maxVal)*140))+'px';
+    bar.title=`${i} blocks: ${dist[i]} players`;
+    wrap.appendChild(cnt);wrap.appendChild(bar);barsEl.appendChild(wrap);
+    const lbl=document.createElement('div');lbl.className='chart-label';lbl.textContent=i;labelsEl.appendChild(lbl);
+  }
+}
+
+function showResetModal(){
+  document.getElementById('resetPassword').value='';
+  document.getElementById('modalError').style.display='none';
+  document.getElementById('resetModal').classList.add('show');
+  setTimeout(()=>document.getElementById('resetPassword').focus(),100);
+}
+
+function hideResetModal(){
+  document.getElementById('resetModal').classList.remove('show');
+}
+
+async function confirmReset(){
+  const pwd=document.getElementById('resetPassword').value;
+  try {
+    const response=await fetch(`${API_BASE_URL}/admin/reset`,{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({password:pwd})
+    });
+    const payload=await response.json().catch(()=>({}));
+    if(!response.ok)throw new Error(payload.message||'Unable to reset leaderboard.');
+    hideResetModal();
+    showLeaderboard();
+  }catch(error){
+    document.getElementById('modalError').textContent=error.message;
+    document.getElementById('modalError').style.display='block';
+    document.getElementById('resetPassword').value='';
+    document.getElementById('resetPassword').focus();
+  }
+}
+
+function goToWelcome(){clearInterval(timer);showScreen('welcome');}
+
+document.addEventListener('keydown',e=>{
+  if(e.key!=='Enter')return;
+  const s=document.querySelector('.screen.active');
+  if(s?.id==='welcome')startGame();
+  else if(s?.id==='game')submitAnswer();
+  else if(s?.id==='leaderboard'&&document.getElementById('resetModal').classList.contains('show'))confirmReset();
+});
+    </script>
+</body>
+
+</html>
