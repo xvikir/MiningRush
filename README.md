@@ -140,18 +140,16 @@ Open the project with **Live Server** in VS Code.
 
 ---
 
-## 🌍 Deployment
+### Production Environment
 
-Frontend:
-Vercel
+When deploying:
 
-Backend:
-Render
+```env
+NODE_ENV=production
+CORS_ORIGIN=https://mining-rush.vercel.app
+```
 
-Database:
-MongoDB Atlas
-
----
+The backend is deployed on Render and the frontend is deployed on Vercel.
 
 ## 📸 Screenshots
 
