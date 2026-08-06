@@ -7,10 +7,10 @@ A blockchain-inspired educational web game where players answer questions to min
 🎮 Frontend (Vercel):
 https://mining-rush.vercel.app
 
-⚙️ Backend API (Render):
+Backend Base URL:
 https://miningrushdd.onrender.com
 
-❤️ Health Check:
+Health Check:
 https://miningrushdd.onrender.com/api/health
 
 ---
@@ -157,9 +157,7 @@ The backend is deployed on Render and the frontend is deployed on Vercel.
 
 ---
 
-## 👨‍💻 Author
 
-**Vikir**
 
 B.Tech Cybersecurity  
 Amrita Vishwa Vidyapeetham
